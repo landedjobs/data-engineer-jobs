@@ -1,345 +1,379 @@
+<a name="top"></a>
 # Data Engineer Jobs at AI Companies 🚀
 
-> An open, **auto-updated** list of Data Engineer roles. Updated 2026-07-01 · **300 live roles**.
-> Curated by [Landed](https://landed.jobs) — scout, get **referred**, prep, and land AI-native jobs.
+![Roles](https://img.shields.io/badge/300%20live%20roles-ff5b29) ![Updated](https://img.shields.io/badge/updated-2026.07.01-00A86B) [![Stars](https://img.shields.io/github/stars/landedjobs/data-engineer-jobs?style=social)](https://github.com/landedjobs/data-engineer-jobs)
 
-⭐ **Star this repo** to track new Data Engineer roles — it refreshes regularly.
+> An open, **auto-updated** list of **300** Data Engineer roles at AI-native companies — refreshed every few days (updated 2026-07-01).
+> Curated by [Landed](https://landed.jobs) — scout roles, get **referred**, prep, and land the job.
+
+⭐ **Star this repo** to keep this list handy.
+
+**Legend:** 🌐 Remote · Level = seniority · Top skills extracted from each posting · Posted = age · the **Apply** button opens the role.
 
 ---
 
-## What is a Data Engineer? (60-second version)
+## What is a Data Engineer?
 
 A **Data Engineer** builds the pipelines and platforms that power AI — ingestion, transformation, feature/vector stores, reliability.
 
 ---
 
-## Live Data Engineer roles
+## Jump to
 
-| Company | Role | Location | Type | Posted |
-|---|---|---|---|---|
-| **Reddit** | [Analytics Engineer](#) | Toronto, Canada | Full-time | 2026-06-30T00:34:39.000Z |
-| **Reddit** | [Analytics Engineer](#) | Remote - United States | Full-time | 2026-06-30T00:34:39.000Z |
-| **Reddit** | [Senior Analytics Engineer](#) | Remote - Ontario, Canada | Full-time | 2026-06-30T00:34:35.000Z |
-| **Reddit** | [Senior Analytics Engineer](#) | Remote - United States | Full-time | 2026-06-30T00:34:35.000Z |
-| **Waymo** | [Tech Lead, Self Driving Eval Infrastructure](#) | Mountain View, CA, USA | Full-time | 2026-06-29T18:53:24.000Z |
-| **CoreWeave** | [Senior Analytics Engineer](#) |  Sunnyvale, CA / Bellevue, WA | Full-time | 2026-06-29T16:49:59.000Z |
-| **CoreWeave** | [Senior Data Engineer](#) | New York, NY / Sunnyvale, CA / Bellevue, WA | Full-time | 2026-06-29T16:49:59.000Z |
-| **Cosuno** | [Senior Analytics Engineer](#) | Berlin/Remote | Full-time | 2026-06-29T16:10:10.175Z |
-| **CrowdStrike** | [Principal Data Engineer, LLM/AI Platforms (Remote)](#) | USA - Remote | Full-time | 2026-06-29T00:00:00.000Z |
-| **Salesforce** | [Employee Success Senior Data Engineer](#) | India - Hyderabad | Full-time | 2026-06-29T00:00:00.000Z |
-| **Philips Health Technology Innovation Paris** | [Analytics & Workflow Automation Developer](#) | Bangalore | Full-time | 2026-06-29T00:00:00.000Z |
-| **Anduril Industries** | [Software Engineer, Data Engineering](#) | Costa Mesa, California, United States | Full-time | 2026-06-28T09:22:55.000Z |
-| **Anduril Industries** | [Data Platform Engineer, Air Dominance & Strike ](#) | Costa Mesa, California, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Senior Data Platform Engineer, Air Dominance & Strike](#) | Costa Mesa, California, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Senior Data & Systems Analyst, EHS](#) | Ashville, Ohio, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Staff Data Engineer](#) | Costa Mesa, California, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Analytics Engineer, Talent Aquisition](#) | Seattle, Washington, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Analytics Engineer, Talent Aquisition](#) | Costa Mesa, California, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Data Engineer, Infrastructure FinOps](#) | Costa Mesa, California, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Senior Analytics Engineer, People Data](#) | Boston, Massachusetts, United States; Costa Mesa, California, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Senior Data & Systems Analyst, EHS](#) | Boston, Massachusetts, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Senior Mission Data Platform Engineer](#) | Irvine, California, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Mission Analytics Engineer](#) | Irvine, California, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Operations Analyst, Product Operations](#) | Costa Mesa, California, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Senior Data & Systems Analyst, EHS](#) | Costa Mesa, California, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Senior Data & Systems Analyst, EHS](#) | Washington, District of Columbia, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Senior Supply Chain Engineer, Analytics](#) | Costa Mesa, California, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Staff Analytics Engineer](#) | Costa Mesa, California, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Supply Chain Engineer, Analytics](#) | Costa Mesa, California, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Analytics Engineer, Talent Aquisition](#) | Boston, Massachusetts, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Senior Analytics Engineer](#) | Costa Mesa, California, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Senior Data Engineer](#) | Costa Mesa, California, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Senior Data & Systems Analyst, EHS](#) | Atlanta, Georgia, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Anduril Industries** | [Senior Software Engineer, Data Platform](#) | Costa Mesa, California, United States | Full-time | 2026-06-27T00:05:43.000Z |
-| **Medium.com** | [Senior Data Platform Engineer](#) | Remote - US | Full-time | 2026-06-26T22:17:08.000Z |
-| **Zscaler** | [Senior Manager, Data Engineering](#) | Remote - USA | Full-time | 2026-06-26T21:34:13.000Z |
-| **Stripe** | [Staff Software Engineer, Data Engineering Solutions](#) | Seattle | Full-time | 2026-06-26T21:05:48.000Z |
-| **Stripe** | [Staff Engineer, Data Engineering Solutions](#) | Bengaluru | Full-time | 2026-06-26T21:05:30.000Z |
-| **Machinify** | [SQL Prompt Engineer Analyst](#) | Remote - US | Full-time | 2026-06-26T20:29:22.000Z |
-| **Take-Two Interactive** | [Data Developer (Python/Spark)](#) | Toronto, Ontario, Canada | Full-time | 2026-06-26T20:05:29.000Z |
-| **SecurityScorecard** | [Senior Data Engineer](#) | Remote (Brazil) | Full-time | 2026-06-26T19:55:23.000Z |
-| **SecurityScorecard** | [Senior Data Engineer](#) | Remote (Argentina) | Full-time | 2026-06-26T19:54:47.000Z |
-| **SecurityScorecard** | [Senior Data Engineer](#) | Remote (LATAM) | Full-time | 2026-06-26T19:49:10.000Z |
-| **Samsara** | [Senior Data Engineer](#) | Remote - US | Full-time | 2026-06-26T19:38:07.000Z |
-| **Samsara** | [Senior Data Engineer](#) | Remote - Canada | Full-time | 2026-06-26T19:37:42.000Z |
-| **Babylist** | [Senior Data Engineer](#) | United States | Full-time | 2026-06-26T17:42:46.000Z |
-| **xAI** | [Senior Data Engineer - Consumer Subscriptions](#) | New York, NY; Palo Alto, CA | Full-time | 2026-06-26T17:29:13.000Z |
-| **MaintainX** | [Développeur(se) senior en analytique](#) | Montreal, Toronto | Full-time | 2026-06-26T15:29:22.000Z |
-| **Vanta** | [Staff Data Engineer](#) | Remote U.S. | Full-time | 2026-06-26T13:34:48.109Z |
-| **Ebury** | [Data Engineer II](#) | São Paulo | Full-time | 2026-06-26T12:20:33.000Z |
-| **TravelPerk** | [Analytics Engineer](#) | London | Full-time | 2026-06-26T12:02:47.500Z |
-| **6sense** | [Sr. Software Engineer](#) | San Francisco, California, United States | Full-time | 2026-06-26T04:13:47.000Z |
-| **Smarking** | [Analytics Engineer](#) | London, England, United Kingdom | Full-time | 2026-06-26T00:00:00.000Z |
-| **SailPoint** | [Senior Staff Data Engineer](#) | United States | Full-time | 2026-06-26T00:00:00.000Z |
-| **CrowdStrike** | [Software Engineer - Data Platform (Hybrid, GBR)](#) | United Kingdom - London | Full-time | 2026-06-26T00:00:00.000Z |
-| **Aptivio** | [Senior AI/ML Data Engineer](#) | Krakow, Poland | Full-time | 2026-06-26T00:00:00.000Z |
-| **Darktrace** | [Data Engineer](#) | The Hague Office, Netherlands | Full-time | 2026-06-26T00:00:00.000Z |
-| **SpaceX** | [Sr. Data Engineer (Starlink Network Analytics, Wi-Fi) ](#) | Redmond, WA | Full-time | 2026-06-25T23:59:42.000Z |
-| **SpaceX** | [Data Engineer (Starlink Network Analytics, Wi-Fi) ](#) | Redmond, WA | Full-time | 2026-06-25T23:59:42.000Z |
-| **SpaceX** | [Sr. Data Engineer, Ground Network Engineering (Business Analytics)](#) | Redmond, WA | Full-time | 2026-06-25T23:59:42.000Z |
-| **SpaceX** | [Data Engineer (Starship)](#) | Starbase, TX | Full-time | 2026-06-25T23:59:42.000Z |
-| **SpaceX** | [Software Engineer, Data - Top Secret Clearance (Starlink)](#) | Hawthorne, CA | Full-time | 2026-06-25T23:59:42.000Z |
-| **Airbnb** | [Senior Data Engineer, People Analytics](#) | United States | Full-time | 2026-06-25T22:27:03.000Z |
-| **ID.me** | [Senior Analytics Engineer ](#) | Mountain View, California, United States | Full-time | 2026-06-25T21:12:37.000Z |
-| **Faire Wholesale, Inc.** | [Senior Staff Data Engineer - Platform Data and Analytics](#) | San Francisco, CA | Full-time | 2026-06-25T20:49:20.000Z |
-| **Faire Wholesale, Inc.** | [Senior Staff Data Engineer - Platform Data and Analytics](#) | Kitchener-Waterloo, ON; Toronto, ON | Full-time | 2026-06-25T20:49:11.000Z |
-| **Faire Wholesale, Inc.** | [Senior Analytics Engineer - Marketplace](#) | Toronto, ON | Full-time | 2026-06-25T20:47:20.000Z |
-| **Faire Wholesale, Inc.** | [Senior Analytics Engineer - Marketplace](#) | San Francisco, CA | Full-time | 2026-06-25T20:47:11.000Z |
-| **Faire Wholesale, Inc.** | [Senior Analytics Engineer - GTM](#) | San Francisco, CA | Full-time | 2026-06-25T20:46:54.000Z |
-| **Nuna** | [Lead Data Engineer](#) | San Francisco | Full-time | 2026-06-25T20:29:00.214Z |
-| **Courier Health** | [Data Engineer](#) | New York, New York, United States | Full-time | 2026-06-25T20:03:23.000Z |
-| **Augrade Inc** | [Senior Data Engineer](#) | Bangalore | Full-time | 2026-06-25T19:35:22.624Z |
-| **Rad AI** | [Data Engineer](#) | United States | Full-time | 2026-06-25T19:29:54.891Z |
-| **Courier Health** | [Senior Data Engineer](#) | New York, New York, United States | Full-time | 2026-06-25T18:29:20.000Z |
-| **Chime** | [Senior Software Engineer, Data Engineering](#) | San Francisco, CA, USA | Full-time | 2026-06-25T18:08:14.000Z |
-| **Chime** | [Senior Software Engineer, Data Engineering](#) | San Francisco, CA, USA | Full-time | 2026-06-25T18:08:14.000Z |
-| **Tabs** | [Data Engineer](#) | New York City, NY | Full-time | 2026-06-25T17:43:53.801Z |
-| **Rogo** | [Analytics Engineer](#) | New York City | Full-time | 2026-06-25T17:02:25.211Z |
-| **Apptronik** | [Data Platform Engineer](#) | Onsite - Austin, TX | Full-time | 2026-06-25T14:02:34.000Z |
-| **Take-Two Interactive** | [Senior Data Engineer](#) | Bengaluru, Karnataka, India | Full-time | 2026-06-25T08:58:05.000Z |
-| **Pointclickcare** | [Senior Research Data Engineer (Canada)](#) | Remote- Canada | Full-time | 2026-06-25T08:32:45.029Z |
-| **Pointclickcare** | [Senior Research Data Engineer (US)](#) | Remote - US | Full-time | 2026-06-25T07:10:21.898Z |
-| **Stuut** | [Data Engineer](#) | San Francisco | Full-time | 2026-06-25T00:27:56.558Z |
-| **CrowdStrike** | [Data Engineering Manager (Remote)](#) | USA - Remote | Full-time | 2026-06-25T00:00:00.000Z |
-| **Salesforce** | [PMTS - Principal Agentic Data Engineer](#) | Mexico - Mexico City | Full-time | 2026-06-25T00:00:00.000Z |
-| **Probably Genetic** | [Founding Data Engineer](#) | San Francisco | Full-time | 2026-06-24T21:37:18.527Z |
-| **nimble-robotics** | [Data Engineer II/III](#) | San Francisco, CA | Full-time | 2026-06-24T21:03:38.000Z |
-| **Instacart** | [Senior Data Analyst](#) | United States - Remote | Full-time | 2026-06-24T20:24:24.000Z |
-| **Instacart** | [Senior Data Analyst](#) | Canada - Remote (ON, AB, BC, or NS Only) | Full-time | 2026-06-24T20:24:24.000Z |
-| **Robinhood** | [Senior Software Engineer, Data Engineering](#) | Menlo Park, CA | Full-time | 2026-06-24T20:17:10.000Z |
-| **Okta** | [Staff Data Engineer (Auth0)](#) | Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC | Full-time | 2026-06-24T18:05:50.000Z |
-| **Okta** | [Staff Analytics Engineer](#) | Bengaluru, India | Full-time | 2026-06-24T18:05:47.000Z |
-| **Okta** | [Senior Analytics Engineer](#) | Bellevue, Washington; Chicago, Illinois; San Francisco, California | Full-time | 2026-06-24T18:05:47.000Z |
-| **Okta** | [Principal Data Platform Engineer (Bengaluru)](#) | Bengaluru, India | Full-time | 2026-06-24T18:05:33.000Z |
-| **Okta** | [Senior Data Engineer](#) | Bengaluru, India | Full-time | 2026-06-24T18:05:33.000Z |
-| **Okta** | [Senior Data Platform Engineer (Bengaluru)](#) | Bengaluru, India | Full-time | 2026-06-24T18:05:33.000Z |
-| **Braze** | [Senior Data Engineer II](#) | New York City | Full-time | 2026-06-24T12:23:56.000Z |
-| **Isomorphic Labs** | [Data Management Specialist, London](#) | London | Full-time | 2026-06-24T11:52:01.000Z |
-| **Monzo Bank** | [Analytics Engineer](#) | Cardiff, London or Remote (UK) | Full-time | 2026-06-24T09:53:16.000Z |
-| **Monzo Bank** | [Staff Analytics Engineer](#) | Cardiff, London or Remote (UK) | Full-time | 2026-06-24T09:36:47.000Z |
-| **Zipline** | [Senior Analytics Engineer](#) | South San Francisco, California, USA | Full-time | 2026-06-24T00:43:10.000Z |
-| **Zipline** | [Senior Manager, Data Platform & Autonomy Infrastructure](#) | South San Francisco, California, USA | Full-time | 2026-06-24T00:43:10.000Z |
-| **Sesame** | [Data Engineer, Machine Learning](#) | San Francisco | Full-time | 2026-06-23T22:19:13.908Z |
-| **Newsela** | [Data Engineer ](#) | Remote - US | Full-time | 2026-06-23T21:34:14.000Z |
-| **Bestow** | [Data Analyst II](#) | Remote, US | Full-time | 2026-06-23T20:33:47.001Z |
-| **Faire Wholesale, Inc.** | [Senior Platform Analytics Engineer](#) | San Francisco, CA | Full-time | 2026-06-23T18:50:30.000Z |
-| **Incognia** | [Senior/Staff Data Engineer](#) | Brazil | Full-time | 2026-06-23T18:26:03.000Z |
-| **Mark43** | [Data Migration Engineer](#) | Remote | Full-time | 2026-06-23T18:15:38.000Z |
-| **Blue River Technology** | [Software Data Engineer, See & Spray](#) | Remote-US | Full-time | 2026-06-23T17:34:55.000Z |
-| **xAI** | [Sr. IT Data Engineer](#) | Palo Alto, CA | Full-time | 2026-06-23T17:20:43.000Z |
-| **Oscar Health** | [Lead Analytics Engineer](#) | New York, New York, United States | Full-time | 2026-06-23T15:32:21.000Z |
-| **SRS Acquiom** | [Senior Data Engineer](#) | Remote - United States | Full-time | 2026-06-23T14:24:06.000Z |
-| **SRS Acquiom** | [ Data Engineer](#) | Remote - United States | Full-time | 2026-06-23T14:22:09.000Z |
-| **Jellyfish** | [Staff Data Engineer ](#) | Remote - US | Full-time | 2026-06-23T14:00:44.145Z |
-| **Kraken** | [Senior Data Engineer - Agents Systems](#) | United States | Full-time | 2026-06-23T09:21:33.362Z |
-| **Kraken** | [Senior Data Engineer - Agents Systems](#) | United Kingdom | Full-time | 2026-06-23T09:21:31.365Z |
-| **Kraken** | [Senior Data Engineer - AI Infrastructure](#) | United States | Full-time | 2026-06-23T09:21:24.440Z |
-| **Kraken** | [Senior Data Engineer - AI Infrastructure](#) | United Kingdom | Full-time | 2026-06-23T09:21:21.707Z |
-| **Split** | [Staff Software Engineer - Data Platform ](#) | Mountain View, California, United States | Full-time | 2026-06-23T04:54:45.000Z |
-| **Calm** | [Analytics Engineer](#) | US Remote, Los Angeles, CA; San Francisco, CA; New York City, NY; Minneapolis, MN | Full-time | 2026-06-23T02:43:05.000Z |
-| **Workday** | [Senior Cybersecurity Data Engineer - AI/ML SME](#) | USA.VA.Reston | Full-time | 2026-06-23T00:00:00.000Z |
-| **Glydways** | [Data Platform Engineering Lead](#) | Remote | Full-time | 2026-06-22T21:40:20.000Z |
-| **Upside** | [Principal Data Engineer](#) | DC | Full-time | 2026-06-22T21:37:52.303Z |
-| **Govini** | [Data Engineer](#) | Pittsburgh, Pennsylvania, United States | Full-time | 2026-06-22T15:40:10.000Z |
-| **Govini** | [Senior Data Platform Engineer](#) | Pittsburgh, Pennsylvania, United States | Full-time | 2026-06-22T15:34:42.000Z |
-| **KAYAK** | [ETL Engineer](#) | Cambridge Office | Full-time | 2026-06-22T13:04:51.284Z |
-| **ManyChat** | [Senior Data Engineer (Data Platform)](#) | Barcelona, Spain | Full-time | 2026-06-22T13:02:13.000Z |
-| **Juniper Square** | [Technical Lead (Data) - India](#) | India | Full-time | 2026-06-22T08:28:04.592Z |
-| **Cloudflare** | [Senior Data Engineer](#) | In-Office | Full-time | 2026-06-19T18:39:05.000Z |
-| **Nexthink** | [Senior Data Engineering (Tech Lead)](#) | Madrid, MD, es | Full-time | 2026-06-19T11:30:39.392Z |
-| **gogobot** | [Engineering Manager - Data](#) | London or Edinburgh | Full-time | 2026-06-19T09:37:40.000Z |
-| **AQEMIA** | [Senior Data Engineer](#) | Paris | Full-time | 2026-06-19T07:44:43.343Z |
-| **Karbon** | [Senior Data Engineer](#) | Melbourne, VIC, Australia | Full-time | 2026-06-19T07:29:12.000Z |
-| **Postman** | [Data Engineer](#) | Bengaluru, Karnataka, India | Full-time | 2026-06-19T04:35:36.000Z |
-| **AppZen** | [Senior Data Engineer](#) | Pune | Full-time | 2026-06-19T04:20:02.886Z |
-| **Braintrust** | [Data Engineer](#) | San Francisco | Full-time | 2026-06-19T01:27:22.710Z |
-| **Frame.io** | [Senior Data Engineer](#) | San Jose | Full-time | 2026-06-19T00:00:00.000Z |
-| **Open** | [Data Engineer GCP H/F](#) | Levallois-Perret | Full-time | 2026-06-19T00:00:00.000Z |
-| **Salesforce** | [Data Engineer (SMTS/LMTS) - Knowledge Graph & AI](#) | California - San Francisco | Full-time | 2026-06-19T00:00:00.000Z |
-| **Salesforce** | [Data Engineer (SMTS / LMTS) - MDM](#) | California - San Francisco | Full-time | 2026-06-19T00:00:00.000Z |
-| **Rocket Lab** | [Senior Analytics Engineer I](#) | Long Beach, CA | Full-time | 2026-06-18T21:55:46.000Z |
-| **SmithRx** | [Senior Staff Data Engineer](#) | Remote | Full-time | 2026-06-18T20:22:08.000Z |
-| **Horizon Surgical Systems** | [Data Engineer](#) | Los Angeles, California | Full-time | 2026-06-18T19:41:53.000Z |
-| **Horizon Surgical Systems** | [DataOps Analyst](#) | Los Angeles, California | Full-time | 2026-06-18T19:40:31.000Z |
-| **MongoDB** | [Senior Staff Enterprise Architect, Data](#) | Palo Alto | Full-time | 2026-06-18T19:34:16.000Z |
-| **MongoDB** | [Staff Data Engineer](#) | Gurugram | Full-time | 2026-06-18T19:34:16.000Z |
-| **Outschool** | [Director of Data](#) | Remote (U.S. & Canada) | Full-time | 2026-06-18T17:43:08.000Z |
-| **Cape** | [Data Engineer](#) | New York, NY | Full-time | 2026-06-18T15:59:17.446Z |
-| **Take-Two Interactive** | [Data Engineer (Python/Spark)](#) | Austin, Texas | Full-time | 2026-06-18T15:58:48.000Z |
-| **Obsidian Security** | [Data Engineer](#) | Cheltenham, UK | Full-time | 2026-06-18T06:00:22.000Z |
-| **PayNearMe** | [Director, Data Product Engineering](#) | Remote | Full-time | 2026-06-18T05:00:16.000Z |
-| **Open** | [Lead Data Engineer H/F](#) | Nantes | Full-time | 2026-06-18T00:00:00.000Z |
-| **Autodesk** | [Principal Data Engineer, User Success](#) | Toronto, ON, CAN | Full-time | 2026-06-18T00:00:00.000Z |
-| **Autodesk** | [Principal Data Engineer, User Success (Agentic Experiences)](#) | Toronto, ON, CAN | Full-time | 2026-06-18T00:00:00.000Z |
-| **2100 NVIDIA USA** | [Senior System and Reporting Analyst](#) | US, CA, Santa Clara | Full-time | 2026-06-18T00:00:00.000Z |
-| **BetterUp** | [Senior Analytics Engineer](#) | United States (Hybrid) | Full-time | 2026-06-17T23:15:08.554Z |
-| **Bedrock Robotics Inc** | [Data Engineer](#) | New York, NY | Full-time | 2026-06-17T20:18:52.816Z |
-| **CookUnity** | [Sr. Analytics Engineer](#) | Argentina (Remote) | Full-time | 2026-06-17T19:39:12.000Z |
-| **OpenAI** | [Data Engineer, Scaling Analytics](#) | San Francisco | Full-time | 2026-06-17T17:19:20.677Z |
-| **Jane App** | [Senior Data Engineer - Customer Signals & Instrumentation](#) | Canada | Full-time | 2026-06-17T12:33:01.891Z |
-| **Betclic Group** | [Lead Data Governance - F/M](#) | Bordeaux, FR | Full-time | 2026-06-17T12:25:21.201Z |
-| **Andela** | [Senior Data Engineer - Forward deployed](#) | North America | Full-time | 2026-06-17T10:41:54.067Z |
-| **Affirm** | [Analytics Engineer II](#) | Remote Poland | Full-time | 2026-06-17T09:53:12.000Z |
-| **Waymo** | [Tech Lead Manager, Data Engineer](#) | Mountain View, CA | Full-time | 2026-06-17T03:09:54.000Z |
-| **CrowdStrike** | [Sr. Data Pipeline Engineer (Remote)](#) | USA - Remote, CA | Full-time | 2026-06-17T00:00:00.000Z |
-| **Frame.io** | [Data Science Engineer](#) | San Jose | Full-time | 2026-06-17T00:00:00.000Z |
-| **Oscar Health** | [Analytics Engineer I](#) | New York, New York, United States | Full-time | 2026-06-16T17:09:41.000Z |
-| **Chartis** | [Senior Data Platform Engineer](#) | Remote | Full-time | 2026-06-16T16:06:03.890Z |
-| **OpenAI** | [Enterprise Application Data Architect, GTM Systems](#) | San Francisco | Full-time | 2026-06-16T15:20:22.491Z |
-| **Valtech** | [Senior Data Engineer](#) | Kosovo - Remote | Full-time | 2026-06-16T14:50:31.000Z |
-| **Diffractive Labs** | [Data Engineer](#) | London | Full-time | 2026-06-16T13:13:58.193Z |
-| **gogobot** | [Data Engineering Manager](#) | London | Full-time | 2026-06-16T08:50:09.000Z |
-| **Eleos Health** | [Data Platform Team Lead](#) | Tel Aviv District, Israel | Full-time | 2026-06-16T07:55:43.000Z |
-| **Polymarket** | [Senior Quantitative Developer](#) | New York | Full-time | 2026-06-16T01:50:10.614Z |
-| **Range** | [Senior Analytics Engineer](#) | McLean, VA | Full-time | 2026-06-16T01:11:45.090Z |
-| **Range** | [Senior Data Engineer](#) | McLean, VA | Full-time | 2026-06-16T01:09:40.783Z |
-| **Aptivio** | [Data Platform Architect](#) | Troy, MI - USA | Full-time | 2026-06-16T00:00:00.000Z |
-| **ArianeGroup** | [ALTERNANCE - Ingénieure / Ingénieur Data Manager en support aux Achats](#) | Saint-Médard-en-Jalles - Centre | Full-time | 2026-06-16T00:00:00.000Z |
-| **Sage** | [Senior Analytics Engineer, Client Engagement ](#) | New York, New York, United States | Full-time | 2026-06-15T23:05:59.000Z |
-| **Deliveroo** | [Analytics Engineering Manager](#) | London - The River Building HQ | Full-time | 2026-06-15T22:07:34.146Z |
-| **Stack AV** | [Senior Data Platform Engineer](#) | Pittsburgh, PA or Remote | Full-time | 2026-06-15T19:25:05.000Z |
-| **Chainalysis** | [Senior Data Engineer, Data Cloud](#) | New York | Full-time | 2026-06-15T18:28:52.075Z |
-| **Foursquare** | [Data Operations Associate (Fixed-term)](#) | Serbia | Full-time | 2026-06-15T14:26:21.664Z |
-| **Dashlane** | [Analytics Engineer](#) | Lisbon, Portugal | Full-time | 2026-06-15T10:37:12.000Z |
-| **CI&T** | [[29844] - AI Data Engineer - Snowflake Cortex - Contractor](#) | London | Full-time | 2026-06-15T09:02:14.918Z |
-| **Imprint** | [Senior Business Intelligence Engineer ](#) | New York City | Full-time | 2026-06-12T21:23:45.122Z |
-| **Pivotal Health** | [Staff Data Engineer, Data Warehouse](#) | Remote - NY | Full-time | 2026-06-12T20:55:21.264Z |
-| **Archer** | [Senior Flight Test Data Engineer, Loads](#) | San Jose, California, United States | Full-time | 2026-06-12T19:16:22.000Z |
-| **Verkada** | [Staff Data Engineer](#) | San Mateo, CA United States | Full-time | 2026-06-12T18:07:21.000Z |
-| **Nelly** | [Senior Data Engineer](#) | Berlin | Full-time | 2026-06-12T17:12:42.821Z |
-| **PlusAI** | [Data Engineer](#) | Santa Clara, CA | Full-time | 2026-06-12T16:21:28.381Z |
-| **Legora** | [Data Engineer](#) | Stockholm HQ | Full-time | 2026-06-12T13:51:42.894Z |
-| **Upvest** | [Senior Data Product Engineer (f/m/d)](#) | Berlin | Full-time | 2026-06-12T09:21:10.359Z |
-| **Deliveroo** | [Senior Analytics Engineering Manager](#) | London - The River Building HQ | Full-time | 2026-06-12T08:46:21.292Z |
-| **Obsidian Security** | [Senior Security Data Engineer ](#) | Manchester, UK | Full-time | 2026-06-12T08:02:59.000Z |
-| **Tessian** | [Senior Data Engineer](#) | Cordoba, Argentina | Full-time | 2026-06-12T00:00:00.000Z |
-| **Cognite** | [Sr. Data Engineer - FP&A](#) | USA (Phoenix) | Full-time | 2026-06-11T23:03:52.000Z |
-| **Justworks** | [Senior Analytics Engineer](#) | New York, New York | Full-time | 2026-06-11T20:41:23.000Z |
-| **EvolutionIQ** | [Analytics Engineering Manager](#) | New York, NY | Full-time | 2026-06-11T19:45:43.000Z |
-| **Kiddom** | [Senior Data Engineer](#) | San Francisco | Full-time | 2026-06-11T18:52:34.575Z |
-| **Radiant** | [Senior Manager, Enterprise Data ](#) | El Segundo, CA | Full-time | 2026-06-11T17:42:39.013Z |
-| **Xero** | [GM/VP Data Engineering](#) | AU: Melbourne: (260 Burwood Rd) | Full-time | 2026-06-11T16:41:01.404Z |
-| **Lovevery** | [Senior Analytics Engineer](#) | Boise, ID | Full-time | 2026-06-11T16:17:57.757Z |
-| **Samsara** | [Senior Data Engineer I](#) | Remote - US | Full-time | 2026-06-11T15:35:47.000Z |
-| **Samsara** | [Senior Data Engineer I](#) | Remote - Canada | Full-time | 2026-06-11T15:35:47.000Z |
-| **Samsara** | [Data Engineer II](#) | Remote - US | Full-time | 2026-06-11T15:35:33.000Z |
-| **Ōura** | [Senior Data Engineer, Data Platform Admin (US – East Coast)](#) | Remote - United States | Full-time | 2026-06-11T15:12:08.000Z |
-| **HackerOne** | [Manager, Data Engineering](#) | Washington DC | Full-time | 2026-06-11T15:07:48.274Z |
-| **Jellyfish** | [Staff Data Architect](#) | Remote - US | Full-time | 2026-06-11T14:43:41.279Z |
-| **Justworks** | [Manager, Data Engineering](#) | New York, New York | Full-time | 2026-06-11T14:01:08.000Z |
-| **Justworks** | [Senior Manager, Data Engineering](#) | New York, New York | Full-time | 2026-06-11T13:52:58.000Z |
-| **Augury** | [Software Data Engineer, Data Platform](#) | Bengaluru, India | Full-time | 2026-06-11T10:40:40.000Z |
-| **OpenGov** | [Data Engineer (Snowflake | DBT)](#) | India | Pune | Full-time | 2026-06-11T09:37:43.486Z |
-| **Cloudera** | [Senior Data Architect (AI & AI-Assisted Development)](#) | Costa Rica > Remote | Full-time | 2026-06-11T00:00:00.000Z |
-| **Aptivio** | [Senior Manager Data Architecture and AI](#) | Dublin, Ireland | Full-time | 2026-06-11T00:00:00.000Z |
-| **Mariana Minerals** | [Sr. Data Engineer ](#) | Ann Arbor, MI | Full-time | 2026-06-10T23:55:51.556Z |
-| **Flex** | [Sr. Staff Analytics Engineer](#) | New York, NY | Full-time | 2026-06-10T21:37:20.000Z |
-| **Base Power Company** | [Data Engineer](#) | Austin, TX | Full-time | 2026-06-10T20:55:12.550Z |
-| **Yext** | [Director, Enterprise Data & Analytics](#) | New York, NY | Full-time | 2026-06-10T20:55:03.000Z |
-| **Peregrine** | [Software Engineer, Data Infrastructure](#) | San Francisco, California, Unites States | Full-time | 2026-06-10T20:04:39.000Z |
-| **Teamworks** | [Staff Data Engineer](#) | United States | Full-time | 2026-06-10T16:57:06.045Z |
-| **YipitData** | [Senior Data Engineering Manager](#) | US Remote | Full-time | 2026-06-10T14:18:22.000Z |
-| **SmithRx** | [Pharmacy Systems Analyst](#) | Remote | Full-time | 2026-06-10T13:28:46.000Z |
-| **Prime Medicine** | [Informatics Engineer](#) | Cambridge, MA | Full-time | 2026-06-10T12:32:08.000Z |
-| **Accurx** | [Senior Analytics Engineer](#) | London (Shoreditch) | Full-time | 2026-06-10T09:56:24.940Z |
-| **Malt** | [Analytics Engineer Intern (September 2026)](#) | Paris | Full-time | 2026-06-10T03:35:17.098Z |
-| **Candid Health** | [Data Engineer](#) | San Francisco | Full-time | 2026-06-10T00:46:09.549Z |
-| **Relativity Space** | [Senior Data & AI Analytics Developer II](#) | Long Beach, California | Full-time | 2026-06-10T00:37:32.000Z |
-| **Zero Hash** | [Senior Data Engineer](#) | United Kingdom | Full-time | 2026-06-09T19:35:27.876Z |
-| **Cognite** | [Data Engineer](#) | Norway (Oslo) | Full-time | 2026-06-09T14:25:11.000Z |
-| **Pebl** | [Analytics Engineer](#) | Toronto, Ontario | Full-time | 2026-06-09T13:24:30.156Z |
-| **Kaluza** | [Engineering Manager (Data Platform & Analytics Engineering)](#) | Bristol, England, United Kingdom; Edinburgh, Scotland, United Kingdom; London, England, United Kingdom | Full-time | 2026-06-09T13:00:35.000Z |
-| **Kaluza** | [Analytics Engineering Lead](#) | Bristol, England, United Kingdom; Edinburgh, Scotland, United Kingdom; London, England, United Kingdom | Full-time | 2026-06-09T13:00:04.000Z |
-| **Valtech** | [Senior Data Engineer](#) | Ukraine - Remote | Full-time | 2026-06-09T12:21:42.000Z |
-| **Valtech** | [Senior Data Engineer](#) | Sofia | Full-time | 2026-06-09T12:21:41.000Z |
-| **Valtech** | [Senior Data Engineer](#) | Lisbon | Full-time | 2026-06-09T12:21:40.000Z |
-| **Valtech** | [Senior Data Engineer](#) | Poland - Remote | Full-time | 2026-06-09T12:21:39.000Z |
-| **Valtech** | [Senior Data Engineer](#) | North Macedonia - Remote | Full-time | 2026-06-09T12:21:38.000Z |
-| **Cognite** | [Senior Data Engineer](#) | India (Bengaluru) | Full-time | 2026-06-09T05:05:16.000Z |
-| **Intel** | [Data Architect](#) | US, Oregon, Hillsboro | Full-time | 2026-06-09T00:00:00.000Z |
-| **Dealer.com** | [Entry Level Data Engineer](#) | Atlanta GA | Full-time | 2026-06-09T00:00:00.000Z |
-| **Open** | [Développeur  microstrategy H/F](#) | Levallois-Perret | Full-time | 2026-06-09T00:00:00.000Z |
-| **Open** | [Consultant.e Dev. Talend Senior Confirmé.e H/F](#) | Levallois-Perret | Full-time | 2026-06-09T00:00:00.000Z |
-| **2100 NVIDIA USA** | [Principal Security Data Engineer, Infrastructure Security Engineering - DGX Cloud](#) | US, CA, Santa Clara | Full-time | 2026-06-09T00:00:00.000Z |
-| **Honor** | [Staff Data Platform Engineer](#) | Remote Position | Full-time | 2026-06-08T21:43:03.000Z |
-| **HackerRank** | [Lead Data Engineer](#) | Hybrid in Bangalore, India | Full-time | 2026-06-08T07:40:53.000Z |
-| **CrowdStrike** | [Data Engineer, Go to Market (Remote)](#) | USA - Remote | Full-time | 2026-06-08T00:00:00.000Z |
-| **Salesforce** | [Lead Data Engineer (Lead Member of Technical Staff)](#) | Mexico - Mexico City | Full-time | 2026-06-08T00:00:00.000Z |
-| **HP Enterprise** | [Cloud Data Engineer](#) | San Jose, California, United States of America | Full-time | 2026-06-08T00:00:00.000Z |
-| **Anaplan** | [Senior Data Engineer - AI](#) | Pennsylvania-Remote, United States | Full-time | 2026-06-06T14:20:15.000Z |
-| **Anaplan** | [Principal Data Engineer - AI](#) | Pennsylvania-Remote, United States | Full-time | 2026-06-06T13:43:48.000Z |
-| **Oasis Health Partners** | [Director of Data Engineering](#) | Remote | Full-time | 2026-06-05T20:36:57.000Z |
-| **Ellipsis Health** | [Senior Data Platform Engineer](#) | San Francisco - Hybrid | Full-time | 2026-06-05T17:45:52.860Z |
-| **OpenAI** | [Analytics Engineer, Safety Systems](#) | San Francisco | Full-time | 2026-06-05T17:30:04.600Z |
-| **Nelly** | [(Senior) Data Analyst](#) | Berlin | Full-time | 2026-06-05T15:19:58.650Z |
-| **CI&T** | [[JOB-29751] Senior Engenheiro(a) de Dados Sênior — IA Generativa, Dados e MDM, Brasil](#) | Brazil | Full-time | 2026-06-05T14:55:51.040Z |
-| **Rivian and Volkswagen Group Technologies** | [Staff Data Platform Engineer](#) | Irvine, California | Full-time | 2026-06-05T14:03:08.889Z |
-| **Cognite** | [Data Engineering Manager](#) | Norway (Oslo) | Full-time | 2026-06-05T08:05:12.000Z |
-| **Clover Health** | [Head of Engineering, Data Platform](#) | Remote - USA | Full-time | 2026-06-05T03:25:26.000Z |
-| **Salesforce** | [Senior Data Engineer](#) | Mexico - Mexico City | Full-time | 2026-06-05T00:00:00.000Z |
-| **Jump** | [Data Platform Lead](#) | Remote (US) | Full-time | 2026-06-04T21:28:18.670Z |
-| **Deliveroo** | [Analytics Engineering Director](#) | London - The River Building HQ | Full-time | 2026-06-04T20:10:47.947Z |
-| **Wheelhouse** | [Senior Data Engineer](#) | United States (Remote) | Full-time | 2026-06-04T19:00:22.000Z |
-| **Sovrn** | [Director, Data Collective ](#) | Boulder, Colorado | Full-time | 2026-06-04T18:54:13.000Z |
-| **FullStory** | [Senior Data Pipeline & AI Engineer](#) | Atlanta | Full-time | 2026-06-04T16:40:54.119Z |
-| **Constant Contact** | [Principal Data Engineer - MarTech](#) | Remote, US or Remote, Ontario, Canada  | Full-time | 2026-06-04T15:52:32.000Z |
-| **Air Space Intelligence** | [Data Lead (Defense)](#) | Colorado, US | Full-time | 2026-06-04T15:14:17.155Z |
-| **Quantexa** | [Principal Data Engineer](#) | New York | Full-time | 2026-06-04T13:13:57.051Z |
-| **Vectra** | [Senior Software Engineer](#) | Dublin, Ireland | Full-time | 2026-06-04T13:08:06.000Z |
-| **OpenAI** | [Technical Lead Manager, Data Engineering, Trust & Safety](#) | San Francisco | Full-time | 2026-06-04T03:48:06.794Z |
-| **CodeRabbit** | [Staff Analytics Engineer](#) | SF | Boston | Full-time | 2026-06-04T00:51:56.821Z |
-| **CrowdStrike** | [Sr. Data Engineer - Cloud Security](#) | Israel - Tel Aviv | Full-time | 2026-06-04T00:00:00.000Z |
-| **Relay** | [Data Engineer](#) | Toronto, ON | Full-time | 2026-06-03T19:24:13.988Z |
-| **Cognite** | [Data Engineering Leader](#) | Amsterdam, North Holland, Netherlands; England, United Kingdom | Full-time | 2026-06-03T17:56:48.000Z |
-| **Imprint** | [Staff Data Engineer](#) | San Francisco | Full-time | 2026-06-03T16:11:08.134Z |
-| **Perplexity** | [Member of Technical Staff (Software Engineer, Data Platform)](#) | San Francisco | Full-time | 2026-06-03T15:09:34.130Z |
-| **Scribe** | [Head of Data](#) | San Francisco | Full-time | 2026-06-03T11:29:46.030Z |
-| **Deliveroo** | [Senior Analytics Engineer](#) | Hyderabad - Main Office | Full-time | 2026-06-03T10:10:17.829Z |
-| **Zinier** | [Senior Data Engineer](#) | Bangalore, IN | Full-time | 2026-06-03T07:31:18.945Z |
-| **Diligent Corporation** | [Technical Director, Data Engineering](#) | Vancouver, British Columbia, Canada | Full-time | 2026-06-02T18:55:27.000Z |
-| **Lila Sciences** | [Staff Engineer, Data Platform](#) | Cambridge, MA USA; San Francisco, CA USA | Full-time | 2026-06-02T18:02:37.000Z |
-| **Podium** | [Data Migration Specialist](#) | Guatemala, Guatemala | Full-time | 2026-06-02T17:21:57.000Z |
-| **Pretto** | [Lead Data - H/F](#) | Paris, Île-de-France | Full-time | 2026-06-02T15:41:45.404Z |
-| **Windfall** | [Senior Data Engineer](#) | San Francisco or Denver | Full-time | 2026-06-02T13:59:14.896Z |
-| **GotPhoto** | [Data Platform Lead (all genders)](#) | Berlin, Hybrid | Full-time | 2026-06-02T07:22:10.264Z |
-| **6sense** | [Sr. Software Engineer - Data](#) | Bengaluru, Karnataka, India | Full-time | 2026-06-02T05:03:23.000Z |
-| **DualEntry** | [Analytics & Data Engineering (Lead or Head)](#) | New York City | Full-time | 2026-06-01T20:43:08.603Z |
-| **COMPASS Pathways** | [Senior Manager, Data Operations and Governance](#) | New York, United States | Full-time | 2026-06-01T19:18:16.000Z |
-| **Teamworks** | [Data Engineer I](#) | United States | Full-time | 2026-06-01T17:22:29.009Z |
-| **Zocdoc** | [Senior Staff Software Engineer, Data](#) | USA Remote | Full-time | 2026-06-01T15:54:40.000Z |
-| **Attio** | [Data Engineering Lead](#) | London | Full-time | 2026-06-01T14:02:45.743Z |
-| **Lawhive** | [Head of Data](#) | London | Full-time | 2026-06-01T10:39:33.490Z |
-| **Cloudera** | [Sr. Data Engineer](#) | Costa Rica-Remote | Full-time | 2026-06-01T00:00:00.000Z |
-| **Decagon** | [Senior Software Engineer, Data Infrastructure](#) | New York City | Full-time | 2026-05-29T23:17:54.192Z |
-| **OpenAI** | [IT Controls Data Engineer](#) | San Francisco | Full-time | 2026-05-29T22:08:23.853Z |
-| **Chartis** | [Epic Population Health Reporting Analyst](#) | Remote | Full-time | 2026-05-29T20:45:43.469Z |
-| **Altana AI** | [Staff Implementation Engineer, Federal (Spanish Speaking)](#) | Brooklyn, NY; Washington, DC | Full-time | 2026-05-29T20:26:11.000Z |
-| **Ironclad** | [Senior Analytics Engineer](#) | San Francisco | Full-time | 2026-05-29T19:25:36.266Z |
-| **Talkiatry** | [Senior Analytics Engineer, Marketing](#) | Remote | Full-time | 2026-05-29T15:04:37.946Z |
-| **Talkiatry** | [Data Engineer](#) | Remote | Full-time | 2026-05-29T14:27:36.726Z |
+- [🧠 Senior & Staff+](#senior) · **215**
+- [⚙️ Mid-level](#mid) · **75**
+- [🌱 Junior & New Grad](#junior) · **7**
+- [🎓 Internships](#intern) · **3**
 
-> A sample of what's live. **[See every Data Engineer role + 1-click tracking on Landed →](https://landed.jobs)**
+---
+
+<a name="senior"></a>
+## 🧠 Senior & Staff+ · 215
+
+| Company | Role | Location | Level | Top skills | Posted | Apply |
+|---|---|---|---|---|---|---|
+| **[Dropbox](https://dropbox.com)** | Data Engineer | Remote - Mexico | Senior | `Spark` `Python` `Scala` | 1d | <a href="https://go.landed.jobs/m9T3sC" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Fetch](https://fetchtruck.com)** | Senior Data Engineer | United States - Remote | Senior | `Apache Spark` `Kafka` `Flink` | 1d | <a href="https://go.landed.jobs/dsLggs" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Vibe](https://vibe.codes)** | Data Engineer | Paris | Senior | `Data Pipelines` `Streaming Data` `Batch Processing` | 1d | <a href="https://go.landed.jobs/5xbpG2" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Dropbox](https://dropbox.com)** | Staff Data Engineer, Analytics Data Engineering | Remote - US: Select locations | Staff | `Data Modeling` `Sql` `Python` | 1d | <a href="https://go.landed.jobs/fcAA4H" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Dropbox](https://dropbox.com)** | Senior Data Engineer, AI and Systems Engineering | Remote - Poland | Senior | `Databricks` `Apache Spark` `Sql` | 1d | <a href="https://go.landed.jobs/DQTDdY" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Dropbox](https://dropbox.com)** | Staff Data Engineer | Remote - Mexico | Staff | `Data Modeling` `Dimensional Modeling` `Schema Design` | 1d | <a href="https://go.landed.jobs/8zCsKD" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Dropbox](https://dropbox.com)** | Staff Data Engineer, Analytics Data Engineering | Remote - Canada: Select locations | Staff | `Data Modeling` `Sql` `Analytics Engineering` | 1d | <a href="https://go.landed.jobs/wH72ye" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Dropbox](https://dropbox.com)** | Senior Data Engineer, AI and Systems Engineering | Remote - Mexico | Senior | `Databricks` `Apache Spark` `Sql` | 1d | <a href="https://go.landed.jobs/56BmSx" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Reddit](https://reddit.com)** | Senior Analytics Engineer | 🌐 Remote | Senior | `Python` `Sql` `Spark` | 1d | <a href="https://go.landed.jobs/nUyqdY" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Reddit](https://reddit.com)** | Senior Analytics Engineer | 🌐 Remote | Senior | `Python` `Sql` `Spark` | 1d | <a href="https://go.landed.jobs/qzX4wF" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Waymo](https://waymo.com)** | Tech Lead, Self Driving Eval Infrastructure | Mountain View, CA, USA | Staff | `Data Governance` `Data Architecture` `Distributed Systems` | 2d | <a href="https://go.landed.jobs/Y5aTba" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Asana](https://asana.com)** | Senior Data Engineer | Vancouver, BC | Senior | `Data Modeling` `Data Pipelines` `ETL` | 2d | <a href="https://go.landed.jobs/fMHEAc" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CoreWeave](https://coreweave.com)** | Senior Data Engineer | New York, NY / Sunnyvale, CA / Bellevue, WA | Senior | `Python` `Scala` `Rust` | 2d | <a href="https://go.landed.jobs/UcX4TV" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CoreWeave](https://coreweave.com)** | Senior Analytics Engineer | Sunnyvale, CA / Bellevue, WA | Senior | `Dbt` `Sql` `Python` | 2d | <a href="https://go.landed.jobs/6qWRrs" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Cosuno](https://cosuno.de)** | Senior Analytics Engineer | 🌐 Remote | Senior | `Dbt` `Sql` `Python` | 2d | <a href="https://go.landed.jobs/Mn2mZC" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Qventus](https://qventus.com)** | Senior Data Engineer | Remote, United States | Senior | `Data Pipelines` `Data Modeling` `ETL` | 2d | <a href="https://go.landed.jobs/ZRS4vL" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Dealer.com](https://dealer.com)** | Principal Data Architect | Austin TX | Principal | `Data Architecture` `ETL` `Reporting Platforms` | 2d | <a href="https://go.landed.jobs/nAz8R9" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Workday](https://workday.com)** | Principal Analytics Engineer | USA, CA, Pleasanton | Principal | `Sql` `Snowflake` `Dbt` | 2d | <a href="https://go.landed.jobs/GLqDpE" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CrowdStrike](https://crowdstrike.com)** | Principal Data Engineer, LLM/AI Platforms (Remote) | 🌐 Remote | Principal | `Llm` `Rag` `Agentic Workflows` | 2d | <a href="https://go.landed.jobs/P28H6A" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[SNCF Connect & Tech](https://sncf-connect-tech.fr)** | DATA EXPERIENCE LEAD (F/H) | Saint Denis Campus SNCF Voyageurs | Senior | `Data Governance` `Data Catalog` `Data Quality` | 2d | <a href="https://go.landed.jobs/QrcSe4" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Salesforce](https://salesforce.com)** | Employee Success Senior Data Engineer | India - Hyderabad | Senior | `Python` `Sql` `Bash` | 2d | <a href="https://go.landed.jobs/MfV26b" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[wellsky](https://wellsky.com)** | Sr. Data Engineer | Remote - US | Senior | `Sql` `Etl` `Ssis` | 2d | <a href="https://go.landed.jobs/YhKZnB" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Staff Data Engineer | Costa Mesa, California, United States | Staff | `Python` `Spark` `Pyspark` | 4d | <a href="https://go.landed.jobs/NASKmx" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Senior Supply Chain Engineer, Analytics | Costa Mesa, California, United States | Senior | `Sql` `Python` `Typescript` | 4d | <a href="https://go.landed.jobs/vVut6x" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Senior Analytics Engineer | Costa Mesa, California, United States | Senior | `Python` `Sql` `Dbt` | 4d | <a href="https://go.landed.jobs/wGsDqR" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Senior Software Engineer, Data Platform | Costa Mesa, California, United States | Senior | `Python` `Sql` `Dbt` | 4d | <a href="https://go.landed.jobs/xdTuWN" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Analytics Engineer, Talent Aquisition | Costa Mesa, California, United States | Senior | `Sql` `Dbt` `Python` | 4d | <a href="https://go.landed.jobs/sRQ7KX" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Senior Data Platform Engineer, Air Dominance & Strike | Costa Mesa, California, United States | Senior | `Python` `Sql` `Terraform` | 4d | <a href="https://go.landed.jobs/htafmp" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Senior Data & Systems Analyst, EHS | Costa Mesa, California, United States | Senior | `Python` `Sql` `Javascript` | 4d | <a href="https://go.landed.jobs/zyzcNZ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Staff Analytics Engineer | Costa Mesa, California, United States | Staff | `Sql` `Python` `Dbt` | 4d | <a href="https://go.landed.jobs/2AnEU6" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Senior Mission Data Platform Engineer | Irvine, California, United States | Senior | `Python` `Sql` `Terraform` | 4d | <a href="https://go.landed.jobs/ZG3TPT" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Data Platform Engineer, Air Dominance & Strike | Costa Mesa, California, United States | Senior | `Python` `Sql` `Terraform` | 4d | <a href="https://go.landed.jobs/HQEYx7" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Senior Data & Systems Analyst, EHS | Boston, Massachusetts, United States | Senior | `Python` `Sql` `Javascript` | 4d | <a href="https://go.landed.jobs/cChUxL" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Senior Data & Systems Analyst, EHS | Atlanta, Georgia, United States | Senior | `Python` `Sql` `Javascript` | 4d | <a href="https://go.landed.jobs/pPMz7r" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Senior Data Engineer | Costa Mesa, California, United States | Senior | `Python` `Sql` `Spark` | 4d | <a href="https://go.landed.jobs/rZGT83" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Data Engineer, Infrastructure FinOps | Costa Mesa, California, United States | Senior | `Python` `Sql` `Bigquery` | 4d | <a href="https://go.landed.jobs/tUzhd6" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Senior Data & Systems Analyst, EHS | Washington, District of Columbia, United States | Senior | `Python` `Sql` `Javascript` | 4d | <a href="https://go.landed.jobs/eVTFWw" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Senior Analytics Engineer, People Data | Boston, Massachusetts, United States; Costa Mesa, California, United States | Senior | `Python` `Sql` `Snowflake` | 4d | <a href="https://go.landed.jobs/aF6hmZ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Senior Data & Systems Analyst, EHS | Ashville, Ohio, United States | Senior | `Python` `Sql` `Javascript` | 4d | <a href="https://go.landed.jobs/mAXC4F" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Analytics Engineer, Talent Aquisition | Boston, Massachusetts, United States | Senior | `Sql` `Dbt` `Python` | 4d | <a href="https://go.landed.jobs/NMu7mT" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Analytics Engineer, Talent Aquisition | Seattle, Washington, United States | Senior | `Sql` `Dbt` `Python` | 4d | <a href="https://go.landed.jobs/9agSHW" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Payabli](https://payabli.com)** | Staff Data Engineer | 🌐 Remote | Staff | `Sql` `Python` `Snowflake` | 4d | <a href="https://go.landed.jobs/nL9wL8" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Medium.com](https://medium.com)** | Senior Data Platform Engineer | 🌐 Remote | Senior | `Python` `Aws` `Snowflake` | 4d | <a href="https://go.landed.jobs/qKVMws" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Zscaler](https://zscaler.com)** | Senior Manager, Data Engineering | 🌐 Remote | Senior | `Python` `Sql` `Snowflake` | 5d | <a href="https://go.landed.jobs/BUgXR7" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Stripe](https://stripe.com)** | Staff Software Engineer, Data Engineering Solutions | Seattle | Staff | `Data Pipelines` `Data Warehousing` `Airflow` | 5d | <a href="https://go.landed.jobs/6gHMg5" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Stripe](https://stripe.com)** | Staff Engineer, Data Engineering Solutions | Bengaluru | Staff | `Data Pipelines` `Data Warehousing` `Apache Spark` | 5d | <a href="https://go.landed.jobs/4QLuuQ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[WelbeHealth](https://welbehealth.com)** | Sr. Data Engineer | Los Angeles, CA, USA | Senior | `Azure` `Sql Server` `Azure Sql` | 5d | <a href="https://go.landed.jobs/k45fe4" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Harbor](https://runharbor.com)** | Team Lead, Business Intelligence | 🌐 Remote | Senior | `Business Intelligence` `Data Warehousing` `Etl` | 5d | <a href="https://go.landed.jobs/uuMcB5" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[SecurityScorecard](https://securityscorecard.com)** | Senior Data Engineer | Remote (Brazil) | Senior | `Scala` `Apache Spark` `Python` | 5d | <a href="https://go.landed.jobs/M4aaDn" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[SecurityScorecard](https://securityscorecard.com)** | Senior Data Engineer | Remote (Argentina) | Senior | `Scala` `Apache Spark` `Python` | 5d | <a href="https://go.landed.jobs/nSFcHU" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[SecurityScorecard](https://securityscorecard.com)** | Senior Data Engineer | Remote (LATAM) | Senior | `Scala` `Apache Spark` `Python` | 5d | <a href="https://go.landed.jobs/Qns2au" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Samsara](https://samsara.com)** | Senior Data Engineer | 🌐 Remote | Senior | `Python` `Sql` `Spark` | 5d | <a href="https://go.landed.jobs/58PqHg" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Samsara](https://samsara.com)** | Senior Data Engineer | 🌐 Remote | Senior | `Python` `Sql` `Spark` | 5d | <a href="https://go.landed.jobs/uGxDHm" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Stage](https://stagereview.app)** | Data Engineer, Data Platform - Distribution | Boston, MA | Senior | `Data Architecture` `Data Modeling` `Data Warehousing` | 5d | <a href="https://go.landed.jobs/uaUBH9" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Stage](https://stagereview.app)** | Director Of Engineering - ADAPT | Gurugram | Exec | `Data Modeling` `Etl` `Elt` | 5d | <a href="https://go.landed.jobs/9e3QsN" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Stage](https://stagereview.app)** | Principal Data Engineer (Python, Snowflake, AWS & DBT) - AI, Data & Platforms | Gurugram | Principal | `Python` `Sql` `Snowflake` | 5d | <a href="https://go.landed.jobs/HYg5NP" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Stage](https://stagereview.app)** | Data Platform Engineer | Boston, MA | Senior | `Data Fabric` `Data Platform` `Apache Iceberg` | 5d | <a href="https://go.landed.jobs/KuMeDK" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Stage](https://stagereview.app)** | Data Engineer (Python, Snowflake, AWS & DBT) - Assistant Vice President - AI, Data & Platforms | Gurugram | Senior | `Python` `Snowflake` `Dbt` | 5d | <a href="https://go.landed.jobs/6MkWeH" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Babylist](https://babylist.com)** | Senior Data Engineer | 🌐 Remote | Senior | `Python` `Airflow` `Dbt` | 5d | <a href="https://go.landed.jobs/YQ8NZk" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[xAI](https://x.ai)** | Senior Data Engineer - Consumer Subscriptions | New York, NY; Palo Alto, CA | Senior | `Sql` `Python` `Pandas` | 5d | <a href="https://go.landed.jobs/MrsgrQ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Coinbase](https://coinbase.com)** | Senior Analytics Engineer (Platform - Financial Analytics) | 🌐 Remote | Senior | `Dbt` `Airflow` `Snowflake` | 5d | <a href="https://go.landed.jobs/t6mrZL" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[MaintainX](https://getmaintainx.com)** | Développeur(se) senior en analytique | 🌐 Remote | Senior | `Dbt` `Databricks` `Data Modeling` | 5d | <a href="https://go.landed.jobs/rY7h2P" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Lendable](https://lendable.co.uk)** | Senior Analytics Engineer | London | Senior | `Sql` `Dbt` `Snowflake` | 5d | <a href="https://go.landed.jobs/fYt7Mn" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Hexa](https://hexaagents.com)** | Lead Data Engineer @Panora (backed by Hexa) | 🌐 Remote | Senior | `Python` `Typescript` `Aws` | 5d | <a href="https://go.landed.jobs/RM4rc7" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CI&T](https://ciandt.com)** | [Job - 30183]  Engenheiro de Dados Sênior | Brazil | Senior | `Python` `Pyspark` `Sql` | 5d | <a href="https://go.landed.jobs/DXkABs" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Vanta](https://vanta.com)** | Staff Data Engineer | 🌐 Remote | Staff | `Sql` `Python` `Aws` | 5d | <a href="https://go.landed.jobs/MNGunx" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Ebury](https://ebury.com)** | Senior Data Engineer - Platform | Madrid | Senior | `Python` `Sql` `Data Modeling` | 5d | <a href="https://go.landed.jobs/LFAkUZ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Ebury](https://ebury.com)** | Senior Analytics Engineer | Madrid | Senior | `Dbt` `Sql` `Data Modeling` | 5d | <a href="https://go.landed.jobs/c7EhVD" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CI&T](https://ciandt.com)** | [job30161]  Master Data Engineer. Brazil | Brazil | Staff | `Databricks` `Azure` `Sql Server` | 5d | <a href="https://go.landed.jobs/TuVwgq" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Weekday](https://weekday.works)** | Lead AWS Data Engineer | Bengaluru | Senior | `Aws` `Data Warehousing` `Etl` | 5d | <a href="https://go.landed.jobs/fLdvxk" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CI&T](https://ciandt.com)** | [Job-30132] Engenheiro de Dados Sênior , Brazil | Brazil | Senior | `Azure` `Databricks` `Pyspark` | 5d | <a href="https://go.landed.jobs/f37VUP" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[6sense](https://6sense.com)** | Sr. Software Engineer | 🌐 Remote | Senior | `Hadoop` `Spark` `Kafka` | 5d | <a href="https://go.landed.jobs/Tq9TB6" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CrowdStrike](https://crowdstrike.com)** | Software Engineer - Data Platform (Hybrid, GBR) | United Kingdom - London | Senior | `Java` `Scala` `Python` | 5d | <a href="https://go.landed.jobs/uwzu6R" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Aptivio](https://aptiv.io)** | Senior AI/ML Data Engineer | Krakow, Poland | Senior | `Python` `Numpy` `Pandas` | 5d | <a href="https://go.landed.jobs/7KNtdL" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[SailPoint](https://sailpoint.com)** | Senior Staff Data Engineer | 🌐 Remote | Staff | `Data Warehousing` `Etl` `Elt` | 5d | <a href="https://go.landed.jobs/5LBTUq" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[SpaceX](https://spacex.com)** | Sr. Data Engineer (Starlink Network Analytics, Wi-Fi) | Redmond, WA | Senior | `Python` `C++` `C` | 5d | <a href="https://go.landed.jobs/aMtrHy" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[SpaceX](https://spacex.com)** | Sr. Data Engineer, Ground Network Engineering (Business Analytics) | Redmond, WA | Senior | `Sql` `C#` `C++` | 5d | <a href="https://go.landed.jobs/naDH7g" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[NewsBreak](https://newsbreak.com)** | Senior Data Infra Engineer | 🌐 Remote | Senior | `Python` `Sql` `Spark` | 5d | <a href="https://go.landed.jobs/2cPSYC" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Airbnb](https://airbnb.com)** | Senior Data Engineer, People Analytics | 🌐 Remote | Senior | `Sql` `Python` `Data Pipelines` | 5d | <a href="https://go.landed.jobs/LQeBED" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[ID.me](https://id.me)** | Senior Analytics Engineer | Mountain View, California, United States | Senior | `Sql` `Dbt` `Snowflake` | 6d | <a href="https://go.landed.jobs/KUU7sL" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[H1](https://h1.co)** | Principal Analyst, Data Integration | US Remote | Principal | `Data Integration` `Data Modeling` `Entity Resolution` | 6d | <a href="https://go.landed.jobs/TgV5Bc" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Faire Wholesale, Inc.](https://faire.com)** | Senior Staff Data Engineer - Platform Data and Analytics | San Francisco, CA | Staff | `Python` `Sql` `Snowflake` | 6d | <a href="https://go.landed.jobs/GvAkEN" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Faire Wholesale, Inc.](https://faire.com)** | Senior Staff Data Engineer - Platform Data and Analytics | Kitchener-Waterloo, ON; Toronto, ON | Staff | `Python` `Sql` `Snowflake` | 6d | <a href="https://go.landed.jobs/r4bD7S" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Faire Wholesale, Inc.](https://faire.com)** | Senior Analytics Engineer - Marketplace | Toronto, ON | Senior | `Python` `Sql` `Airflow` | 6d | <a href="https://go.landed.jobs/BwR6uL" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Faire Wholesale, Inc.](https://faire.com)** | Senior Analytics Engineer - Marketplace | San Francisco, CA | Senior | `Python` `Sql` `Dbt` | 6d | <a href="https://go.landed.jobs/vrUutH" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Faire Wholesale, Inc.](https://faire.com)** | Senior Analytics Engineer - GTM | San Francisco, CA | Senior | `Python` `Sql` `Data Modeling` | 6d | <a href="https://go.landed.jobs/3UDuLX" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Nuna](https://nuna.com)** | Lead Data Engineer | San Francisco | Senior | `Python` `Pyspark` `Sql` | 6d | <a href="https://go.landed.jobs/uGqQmT" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Augrade Inc](https://augrade.com)** | Senior Data Engineer | 🌐 Remote | Senior | `Autocad` `Bim` `Mep` | 6d | <a href="https://go.landed.jobs/Cqct6u" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Rad AI](https://radai.com)** | Data Engineer | 🌐 Remote | Senior | `Python` `Aws` `Spark` | 6d | <a href="https://go.landed.jobs/QNK4aM" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Courier Health](https://courierhealth.com)** | Senior Data Engineer | New York, New York, United States | Senior | `Sql` `Dbt` `Python` | 6d | <a href="https://go.landed.jobs/a8mYPd" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Chime](https://chime.com)** | Senior Software Engineer, Data Engineering | San Francisco, CA, USA | Senior | `Python` `Sql` `Spark` | 6d | <a href="https://go.landed.jobs/CWs3cD" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Chime](https://chime.com)** | Senior Software Engineer, Data Engineering | San Francisco, CA, USA | Senior | `Python` `Aws` `Pyspark` | 6d | <a href="https://go.landed.jobs/e66d9E" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Tabs](https://tabs.inc)** | Data Engineer | New York City, NY | Senior | `Python` `Sql` `Snowflake` | 6d | <a href="https://go.landed.jobs/EALhGk" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Afresh Technologies](https://afresh.com)** | Staff Software Engineer Data - DC Tech Lead | 🌐 Remote | Staff | `Python` `Pyspark` `Sql` | 6d | <a href="https://go.landed.jobs/wFF6Tz" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Afresh Technologies](https://afresh.com)** | Staff Software Engineer Data - DC Tech Lead | 🌐 Remote | Staff | `Python` `Pyspark` `Sql` | 6d | <a href="https://go.landed.jobs/9XA2Sv" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[US Mobile](https://usmobile.com)** | Analytics Data Engineer | New York City | Senior | `Sql` `Python` `Dbt` | 6d | <a href="https://go.landed.jobs/aaNYnK" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CI&T](https://ciandt.com)** | [Job-30010] DATA Tech Lead, Brazil | 🌐 Remote | Senior | `Databricks` `Apache Spark` `Aws` | 6d | <a href="https://go.landed.jobs/dGLLgq" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Flywire](https://flywire.com)** | Senior Data Engineer I | València, VC, es | Senior | `Python` `Java` `Scala` | 6d | <a href="https://go.landed.jobs/N2fCa8" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Take-Two Interactive](https://take2games.com)** | Senior Data Engineer | Bengaluru, Karnataka, India | Senior | `Python` `Pyspark` `Sql` | 6d | <a href="https://go.landed.jobs/dkTPQH" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Pointclickcare](https://pointclickcare.com)** | Senior Research Data Engineer (Canada) | Remote- Canada | Senior | `Python` `Sql` `Pyspark` | 6d | <a href="https://go.landed.jobs/LD95rp" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Pointclickcare](https://pointclickcare.com)** | Senior Research Data Engineer (US) | Remote - US | Senior | `Python` `Sql` `Pyspark` | 6d | <a href="https://go.landed.jobs/LPT2he" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Turo](https://turo.com)** | Senior Data Engineer, Marketing | San Francisco | Senior | `Python` `Aws` `Kubernetes` | 6d | <a href="https://go.landed.jobs/bSLW7m" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CrowdStrike](https://crowdstrike.com)** | Data Engineering Manager (Remote) | 🌐 Remote | Senior | `Python` `Snowflake` `Airflow` | 6d | <a href="https://go.landed.jobs/BUxY8X" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Salesforce](https://salesforce.com)** | PMTS - Principal Agentic Data Engineer | Mexico - Mexico City | Principal | `Agent Orchestration` `Langgraph` `Prompt Engineering` | 6d | <a href="https://go.landed.jobs/s6VUhK" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Zoom](https://zoom.com)** | Data Engineer | 🌐 Remote | Senior | `Sql` `Pl/Sql` `Relational Databases` | 6d | <a href="https://go.landed.jobs/kDPzpn" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Rula](https://rula.com)** | Sr. Data Engineer (Remote) | 🌐 Remote | Senior | `Python` `Sql` `Data Pipelines` | 6d | <a href="https://go.landed.jobs/6qB4aK" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Kin Insurance](https://kin.com)** | Staff Analytics Engineer | 🌐 Remote | Staff | `Semantic Modeling` `Data Modeling` `Ontology Design` | 7d | <a href="https://go.landed.jobs/w7CqTV" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Instacart](https://instacart.com)** | Senior Data Analyst | 🌐 Remote | Senior | `Sql` `Python` `Snowflake` | 7d | <a href="https://go.landed.jobs/GLE62K" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Instacart](https://instacart.com)** | Senior Data Analyst | 🌐 Remote | Senior | `Sql` `Python` `Snowflake` | 7d | <a href="https://go.landed.jobs/aabXy5" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Robinhood](https://robinhood.com)** | Senior Software Engineer, Data Engineering | Menlo Park, CA | Senior | `Python` `Spark` `Airflow` | 7d | <a href="https://go.landed.jobs/dPzsQd" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Plume](https://plumefinder.com)** | Data Software Engineer | Hyderabad, India | Senior | `Python` `Java` `Scala` | 7d | <a href="https://go.landed.jobs/dv4Qkq" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Okta](https://okta.com)** | Staff Data Engineer (Auth0) | Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC | Staff | `Python` `Sql` `Aws` | 7d | <a href="https://go.landed.jobs/vXdLcV" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Okta](https://okta.com)** | Staff Analytics Engineer | Bengaluru, India | Staff | `Sql` `Dbt` `Snowflake` | 7d | <a href="https://go.landed.jobs/9fbeUn" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Okta](https://okta.com)** | Senior Analytics Engineer | Bellevue, Washington; Chicago, Illinois; San Francisco, California | Senior | `Sql` `Dbt` `Snowflake` | 7d | <a href="https://go.landed.jobs/uZMChP" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Okta](https://okta.com)** | Principal Data Platform Engineer (Bengaluru) | Bengaluru, India | Principal | `Snowflake` `Aws` `Dbt` | 7d | <a href="https://go.landed.jobs/nLbtYr" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Okta](https://okta.com)** | Senior Data Platform Engineer (Bengaluru) | Bengaluru, India | Senior | `Aws` `Dbt` `Snowflake` | 7d | <a href="https://go.landed.jobs/QTZnyT" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Okta](https://okta.com)** | Senior Data Engineer | Bengaluru, India | Senior | `Python` `Sql` `Aws` | 7d | <a href="https://go.landed.jobs/fAEvph" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Braze](https://braze.com)** | Senior Data Engineer II | New York City | Senior | `Sql` `Python` `Dbt` | 7d | <a href="https://go.landed.jobs/DC3Mam" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[OKX](https://okx.com)** | Senior/Staff Data Engineer, Risk Control | Singapore, Singapore | Senior | `Data Warehousing` `Data Modeling` `ETL` | 7d | <a href="https://go.landed.jobs/CBXUKh" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Monzo Bank](https://monzo.com)** | Staff Analytics Engineer | 🌐 Remote | Staff | `Dbt` `Bigquery` `Python` | 7d | <a href="https://go.landed.jobs/dtbUVd" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Infinite Lambda](https://infinitelambda.com)** | LATAM I Analytics Engineer | 🌐 Remote | Senior | `Dbt` `Snowflake` `Sql` | 7d | <a href="https://go.landed.jobs/kTbMFc" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Zipline](https://flyzipline.com)** | Senior Manager, Data Platform & Autonomy Infrastructure | South San Francisco, California, USA | Senior | `Python` `Kubernetes` `Aws` | 7d | <a href="https://go.landed.jobs/XZqLqx" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Zipline](https://flyzipline.com)** | Senior Analytics Engineer | South San Francisco, California, USA | Senior | `Sql` `Python` `R` | 7d | <a href="https://go.landed.jobs/C59mTt" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Workday](https://workday.com)** | Senior Software Engineer (Data Engineering) | Canada, BC, Vancouver | Senior | `Python` `Spark` `Aws` | 7d | <a href="https://go.landed.jobs/9SDmMg" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Lending Club](https://lendingclub.com)** | VP, Business Data Delivery | San Francisco, CA | Exec | `Data Product Management` `Data Engineering` `Analytics Engineering` | 7d | <a href="https://go.landed.jobs/3Cgy86" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Dealer.com](https://dealer.com)** | Lead Data Engineer | Atlanta GA | Senior | `Python` `Sql` `Pl Sql` | 7d | <a href="https://go.landed.jobs/ZgFyE5" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Sesame](https://sesame.com)** | Data Engineer, Machine Learning | San Francisco | Senior | `Python` `Sql` `Airflow` | 7d | <a href="https://go.landed.jobs/a2zvCF" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Faire Wholesale, Inc.](https://faire.com)** | Senior Platform Analytics Engineer | San Francisco, CA | Senior | `Sql` `Python` `Airflow` | 8d | <a href="https://go.landed.jobs/2B9TRH" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Incognia](https://incognia.com)** | Senior/Staff Data Engineer | 🌐 Remote | Senior | `Kubernetes` `Spark` `Etl` | 8d | <a href="https://go.landed.jobs/Lb7pSM" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Blue River Technology](https://bluerivertechnology.com)** | Software Data Engineer, See & Spray | 🌐 Remote | Senior | `Python` `Go` `C++` | 8d | <a href="https://go.landed.jobs/ZqVt6n" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[xAI](https://x.ai)** | Sr. IT Data Engineer | Palo Alto, CA | Senior | `Python` `Java` `Sql` | 8d | <a href="https://go.landed.jobs/TR2qcz" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Oscar Health](https://hioscar.com)** | Lead Analytics Engineer | New York, New York, United States | Senior | `Sql` `Dbt` `Dimensional Modeling` | 8d | <a href="https://go.landed.jobs/VQ7rUT" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[SRS Acquiom](https://srsacquiom.com)** | Senior Data Engineer | 🌐 Remote | Senior | `Sql` `Postgresql` `Mysql` | 8d | <a href="https://go.landed.jobs/Wg5K3p" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Jellyfish](https://jellyfish.co)** | Staff Data Engineer | 🌐 Remote | Staff | `Python` `Terraform` `Airflow` | 8d | <a href="https://go.landed.jobs/rNPfpu" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CI&T](https://ciandt.com)** | [Job - 29990] Arquiteto de Dados, Brazil | Brazil | Senior | `Data Architecture` `Azure` `Databricks` | 8d | <a href="https://go.landed.jobs/DB56MC" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CI&T](https://ciandt.com)** | [Job 29989] Arquiteto de Dados, Brazil | Brazil | Senior | `Data Architecture` `Azure` `Databricks` | 8d | <a href="https://go.landed.jobs/tEGRV5" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Kraken](https://kraken.com)** | Senior Data Engineer - Agents Systems | 🌐 Remote | Senior | `Python` `Scala` `Sql` | 8d | <a href="https://go.landed.jobs/x76AEF" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Kraken](https://kraken.com)** | Senior Data Engineer - Agents Systems | 🌐 Remote | Senior | `Python` `Scala` `Sql` | 8d | <a href="https://go.landed.jobs/AchmRE" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Kraken](https://kraken.com)** | Senior Data Engineer - AI Infrastructure | 🌐 Remote | Senior | `Python` `Scala` `Sql` | 8d | <a href="https://go.landed.jobs/tLAYzU" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Kraken](https://kraken.com)** | Senior Data Engineer - AI Infrastructure | 🌐 Remote | Senior | `Python` `Scala` `Sql` | 8d | <a href="https://go.landed.jobs/p5QeQu" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CI&T](https://ciandt.com)** | [29753] - Senior Data Visualization Engineer | Brazil | Senior | `Tableau` `Sql` `Dimensional Data Modeling` | 8d | <a href="https://go.landed.jobs/HYZNQP" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Split](https://split.io)** | Staff Software Engineer - Data Platform | Mountain View, California, United States | Staff | `Python` `Java` `Scala` | 8d | <a href="https://go.landed.jobs/bsTPYx" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[ServiceTitan](https://servicetitan.com)** | Staff Data Engineer | 🌐 Remote | Staff | `Data Architecture` `Semantic Modeling` `Dbt` | 8d | <a href="https://go.landed.jobs/6uWSyE" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Workday](https://workday.com)** | Senior Cybersecurity Data Engineer - AI/ML SME | USA.VA.Reston | Senior | `Python` `Sql` `Aws` | 8d | <a href="https://go.landed.jobs/WhC5yR" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Workday](https://workday.com)** | Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME | USA.VA.Reston | Senior | `Data Lakehouse` `Apache Iceberg` `Delta Lake` | 8d | <a href="https://go.landed.jobs/abSPKH" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[ServiceTitan](https://servicetitan.com)** | Engineering Manager, Data Platform | 🌐 Remote | Senior | `Data Platform` `Data Modeling` `Semantic Layer` | 8d | <a href="https://go.landed.jobs/32MKku" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Glydways](https://glydways.com)** | Data Platform Engineering Lead | Remote | Staff | `Data Platform` `Data Pipelines` `Cloud Native` | 9d | <a href="https://go.landed.jobs/sDDK3z" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Upside](https://upside.com)** | Principal Data Engineer | 🌐 Remote | Principal | `Aws` `Snowflake` `Dbt` | 9d | <a href="https://go.landed.jobs/UQgyyA" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Govini](https://govini.com)** | Senior Data Platform Engineer | Pittsburgh, Pennsylvania, United States | Senior | `Python` `Sql` `Apache Spark` | 9d | <a href="https://go.landed.jobs/UBTVx9" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[ManyChat](https://manychat.com)** | Senior Data Engineer (Data Platform) | Barcelona, Spain | Senior | `Python` `Sql` `Aws` | 9d | <a href="https://go.landed.jobs/NY4Srz" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CI&T](https://ciandt.com)** | [JOB-29985] Data Engineer Senior (FICO) | Brazil | Senior | `Sql` `Python` `Pyspark` | 9d | <a href="https://go.landed.jobs/fvbg22" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Juniper Square](https://junipersquare.com)** | Technical Lead (Data) - India | India | Senior | `Python` `Sql` `Aws` | 9d | <a href="https://go.landed.jobs/MvSqHh" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[HP Enterprise](https://hpe.com)** | Senior Data Engineer | Bengaluru, Karnātaka, India | Senior | `Snowflake` `Dbt` `Python` | 9d | <a href="https://go.landed.jobs/KSyC4R" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Craft Education](https://crafteducation.com)** | Enterprise Architect – Data Architecture | Salt Lake City, UT | Senior | `Data Architecture` `Data Modeling` `Data Governance` | 9d | <a href="https://go.landed.jobs/NwAY9X" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Swift](https://swift.com)** | Senior Data Engineer | Kuala Lumpur, Malaysia | Senior | `Java` `Spark` `Airflow` | 9d | <a href="https://go.landed.jobs/7f75Zx" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[HP Enterprise](https://hpe.com)** | Compensation Data Engineer | Bengaluru, Karnātaka, India | Senior | `ETL` `Java` `Linux` | 9d | <a href="https://go.landed.jobs/GYLc8d" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[wellsky](https://wellsky.com)** | Staff Data Engineer | Overland Park, KS | Staff | `Python` `Sql` `Terraform` | 9d | <a href="https://go.landed.jobs/9nkyV4" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Weekday](https://weekday.works)** | Sr BI Architect | Bengaluru | Senior | `Business Intelligence` `Data Warehousing` `Etl` | 11d | <a href="https://go.landed.jobs/VcGm8z" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Coast](https://coastpay.com)** | Lead Data Engineer | New York, NY | Senior | `Python` `Sql` `Etl` | 11d | <a href="https://go.landed.jobs/rcg87w" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Cloudflare](https://cloudflare.com)** | Senior Data Engineer | In-Office | Senior | `Go` `Scala` `Python` | 12d | <a href="https://go.landed.jobs/EEaVVH" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Alma](https://almapay.com)** | Lead Data Engineer | Paris, Paris, France | Senior | `Data Warehousing` `Data Modeling` `Etl` | 12d | <a href="https://go.landed.jobs/2s4bmK" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Nexthink](https://nexthink.com)** | Senior Data Engineering (Tech Lead) | Madrid, MD, es | Senior | `Data Warehousing` `Data Modeling` `Etl` | 12d | <a href="https://go.landed.jobs/vet7WS" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[AQEMIA](https://aqemia.com)** | Senior Data Engineer | Paris | Senior | `Python` `Sql` `Aws` | 12d | <a href="https://go.landed.jobs/ewSD3k" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Karbon](https://karbonhq.com)** | Senior Data Engineer | Melbourne, VIC, Australia | Senior | `Databricks` `Etl` `Elt` | 12d | <a href="https://go.landed.jobs/5mD6Bt" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[AppZen](https://appzen.com)** | Senior Data Engineer | Pune | Senior | `Python` `Sql` `Aws` | 12d | <a href="https://go.landed.jobs/dCewbX" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Braintrust](https://braintrust.dev)** | Data Engineer | San Francisco | Senior | `Sql` `Data Modeling` `Etl` | 12d | <a href="https://go.landed.jobs/KPD9Fd" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Salesforce](https://salesforce.com)** | Data Engineer (SMTS/LMTS) - Knowledge Graph & AI | California - San Francisco | Staff | `Python` `Distributed Systems` `Knowledge Graphs` | 12d | <a href="https://go.landed.jobs/yYRcR2" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Frame.io](https://frame.io)** | Senior Data Engineer | San Jose | Senior | `Python` `Sql` `Databricks` | 12d | <a href="https://go.landed.jobs/mDQgXb" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Salesforce](https://salesforce.com)** | Data Engineer (SMTS / LMTS) - MDM | California - San Francisco | Senior | `Java` `Python` `Rest Api` | 12d | <a href="https://go.landed.jobs/fVt2LF" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[IQVIA](https://iqvia.com)** | Senior Data Engineer | 🌐 Remote | Senior | `Python` `Scala` `Apache Spark` | 12d | <a href="https://go.landed.jobs/dmYr2Q" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Zelis](https://zelis.com)** | Sr. Engineer Data Engineering | India Hyderabad | Senior | `Snowflake` `Dbt` `Sql` | 12d | <a href="https://go.landed.jobs/usLYTw" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Rocket Lab](https://rocketlabusa.com)** | Senior Analytics Engineer I | Long Beach, CA | Senior | `Sql` `Dbt` `Azure Data Factory` | 13d | <a href="https://go.landed.jobs/5kEnkU" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[SmithRx](https://smithrx.com)** | Senior Staff Data Engineer | Remote | Staff | `Python` `Pyspark` `Sql` | 13d | <a href="https://go.landed.jobs/yYdqWx" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[MongoDB](https://mongodb.com)** | Senior Staff Enterprise Architect, Data | Palo Alto | Staff | `Data Architecture` `Data Engineering` `Enterprise Architecture` | 13d | <a href="https://go.landed.jobs/6Psvab" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[MongoDB](https://mongodb.com)** | Staff Data Engineer | Gurugram | Staff | `Spark` `Python` `Aws` | 13d | <a href="https://go.landed.jobs/nbNEYx" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Outschool](https://outschool.com)** | Director of Data | 🌐 Remote | Exec | `Sql` `Python` `Dbt` | 13d | <a href="https://go.landed.jobs/pdF2a7" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CI&T](https://ciandt.com)** | [Job 29931] Senior, AI Data Engineer  Brazil | Brazil | Senior | `Dbt` `Sql` `Data Modeling` | 13d | <a href="https://go.landed.jobs/pXW5RV" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[PayNearMe](https://paynearme.com)** | Director, Data Product Engineering | 🌐 Remote | Exec | `Python` `Sql` `Snowflake` | 13d | <a href="https://go.landed.jobs/YhvyU5" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Nucleus Teq](https://nucleusteq.com)** | Team Lead - Data Engineer (Java, GCP, Big Data, SQL) | Remote | Senior | `Java` `Python` `Sql` | 13d | <a href="https://go.landed.jobs/Ys3AFD" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Dabble](https://dabble.so)** | Senior Data Governance Engineer | 🌐 Remote | Senior | `Data Governance` `Databricks` `Unity Catalog` | 13d | <a href="https://go.landed.jobs/ZwvRmE" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[2100 NVIDIA USA](https://nvidia.com)** | Senior System and Reporting Analyst | US, CA, Santa Clara | Senior | `Sql` `Data Modeling` `Semantic Layer Design` | 13d | <a href="https://go.landed.jobs/8maAGP" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Autodesk](https://autodesk.co.uk)** | Principal Data Engineer, User Success (Agentic Experiences) | Toronto, ON, CAN | Principal | `Python` `Spark` `Pyspark` | 13d | <a href="https://go.landed.jobs/bCg9SG" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Autodesk](https://autodesk.co.uk)** | Principal Data Engineer, User Success | Toronto, ON, CAN | Principal | `Python` `Spark` `Pyspark` | 13d | <a href="https://go.landed.jobs/7k6QMa" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[BetterUp](https://betterup.com)** | Senior Analytics Engineer | United States (Hybrid) | Senior | `Sql` `Snowflake` `Dbt` | 13d | <a href="https://go.landed.jobs/XEnFvu" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Bedrock Robotics Inc](https://bedrockrobotics.com)** | Data Engineer | 🌐 Remote | Senior | `Sql` `Spark` `Airflow` | 14d | <a href="https://go.landed.jobs/UXTGnA" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CookUnity](https://cookunity.com)** | Sr. Analytics Engineer | 🌐 Remote | Senior | `Sql` `Git` `Dbt` | 14d | <a href="https://go.landed.jobs/ntfcUP" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[OpenAI](https://openai.com)** | Data Engineer, Scaling Analytics | 🌐 Remote | Senior | `Python` `Sql` `Snowflake` | 14d | <a href="https://go.landed.jobs/uWhSDN" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Jane App](https://jane.app)** | Senior Data Engineer - Customer Signals & Instrumentation | 🌐 Remote | Senior | `Javascript` `Typescript` `Sql` | 14d | <a href="https://go.landed.jobs/FBBcBR" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Betclic Group](https://betclicgroup.com)** | Lead Data Governance - F/M | Bordeaux, FR | Senior | `Data Governance` `Metadata Management` `Data Catalog` | 14d | <a href="https://go.landed.jobs/aETscF" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Andela](https://andela.com)** | Senior Data Engineer - Forward deployed | 🌐 Remote | Senior | `Python` `Pyspark` `Snowflake` | 14d | <a href="https://go.landed.jobs/D7xeLv" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Waymo](https://waymo.com)** | Tech Lead Manager, Data Engineer | Mountain View, CA | Staff | `Data Warehousing` `Data Modeling` `ETL` | 14d | <a href="https://go.landed.jobs/rBNWyg" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[IQVIA](https://iqvia.com)** | Associate Director, Ingestion, IQVIA Digital (Remote) | 🌐 Remote | Senior | `Data Ingestion` `Data Operations` `Data Engineering` | 14d | <a href="https://go.landed.jobs/y7QyGM" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[HP Enterprise](https://hpe.com)** | Senior Data Engineer | Tel Aviv, Israel | Senior | `Snowflake` `SQL` `Python` | 14d | <a href="https://go.landed.jobs/YzErW6" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Frame.io](https://frame.io)** | Data Science Engineer | San Jose | Senior | `Python` `Spark` `Sql` | 14d | <a href="https://go.landed.jobs/pavDmR" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Frame.io](https://frame.io)** | Software Development Engineer | Noida | Senior | `Databricks` `Pyspark` `Python` | 14d | <a href="https://go.landed.jobs/hZ7wfB" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CrowdStrike](https://crowdstrike.com)** | Sr. Data Pipeline Engineer (Remote) | 🌐 Remote | Senior | `Airflow` `Dbt` `Python` | 14d | <a href="https://go.landed.jobs/wZc7hR" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Roblox](https://roblox.com)** | Principal Software Engineer, Data Engineering | San Mateo, CA, United States | Principal | `Sql` `Pyspark` `Scala` | 15d | <a href="https://go.landed.jobs/cxrQZ7" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Afresh Technologies](https://afresh.com)** | Senior Staff Data Engineer | 🌐 Remote | Staff | `Python` `Pyspark` `Sql` | 15d | <a href="https://go.landed.jobs/2pNSSW" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Chartis](https://chartis.com)** | Senior Data Platform Engineer | 🌐 Remote | Senior | `Python` `Airflow` `Dagster` | 15d | <a href="https://go.landed.jobs/WTXn6u" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[OpenAI](https://openai.com)** | Enterprise Application Data Architect, GTM Systems | San Francisco | Senior | `Salesforce` `Sql` `Data Modeling` | 15d | <a href="https://go.landed.jobs/EXA7ea" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Valtech](https://valtech.fr)** | Senior Data Engineer | Kosovo - Remote | Senior | `Python` `Sql` `Apache Spark` | 15d | <a href="https://go.landed.jobs/Yawqdd" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Cohere Health](https://coherehealth.com)** | Lead Data Engineer | Hyderabad, Telangana, India | Senior | `Aws` `Python` `Sql` | 15d | <a href="https://go.landed.jobs/edngMp" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Smartsheet](https://smartsheet.com)** | Sr. Analytics Engineer - Data Warehouse (Hybrid, Bangalore) | Bangalore, INDIA | Senior | `Data Modeling` `Data Warehousing` `Snowflake` | 15d | <a href="https://go.landed.jobs/VgyfPD" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Eleos Health](https://eleos.health)** | Data Platform Team Lead | Tel Aviv District, Israel | Senior | `Python` `Airflow` `Dbt` | 15d | <a href="https://go.landed.jobs/reGmV3" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Polymarket](https://polymarket.com)** | Senior Quantitative Developer | New York | Senior | `Python` `Kafka` `Aws` | 15d | <a href="https://go.landed.jobs/8QX6Kr" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Range](https://range.com)** | Senior Analytics Engineer | McLean, VA | Senior | `Dbt` `Sql` `Python` | 15d | <a href="https://go.landed.jobs/N37tdL" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Range](https://range.com)** | Senior Data Engineer | McLean, VA | Senior | `Python` `Dbt` `Fivetran` | 15d | <a href="https://go.landed.jobs/WWSmsZ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Motorola Solutions](https://motorolasolutions.com)** | Data Relationship Manager (DRM) (US Remote) | 🌐 Remote | Senior | `Data Modeling` `Data Architecture` `Sql` | 15d | <a href="https://go.landed.jobs/4RCyPb" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Aptivio](https://aptiv.io)** | Data Platform Architect | Troy, MI - USA | Senior | `Snowflake` `Dbt` `Tableau` | 15d | <a href="https://go.landed.jobs/867HEv" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Sage](https://sagehealth.com)** | Senior Analytics Engineer, Client Engagement | New York, New York, United States | Senior | `Sql` `Python` `Data Modeling` | 15d | <a href="https://go.landed.jobs/T2hv8d" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[trawa](https://trawa.de)** | Senior Data Engineer | Berlin HQ | Senior | `Python` `Sql` `Aws` | 16d | <a href="https://go.landed.jobs/uckYwe" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Doma](https://doma.com)** | Principal Data Platform Engineer | 🌐 Remote | Principal | `Azure` `Aws` `Gcp` | 16d | <a href="https://go.landed.jobs/Nbv6QL" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Stack AV](https://stackav.com)** | Senior Data Platform Engineer | Pittsburgh, PA or Remote | Senior | `Python` `Sql` `Kafka` | 16d | <a href="https://go.landed.jobs/Nhat3y" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Chainalysis](https://chainalysis.com)** | Senior Data Engineer, Data Cloud | 🌐 Remote | Senior | `Python` `Sql` `Aws` | 16d | <a href="https://go.landed.jobs/vPpHHE" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Dashlane](https://dashlane.com)** | Analytics Engineer | Lisbon, Portugal | Senior | `Sql` `Dbt` `Python` | 16d | <a href="https://go.landed.jobs/dBz8dc" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+
+[⬆ back to top](#top)
+
+<a name="mid"></a>
+## ⚙️ Mid-level · 75
+
+| Company | Role | Location | Level | Top skills | Posted | Apply |
+|---|---|---|---|---|---|---|
+| **[Reddit](https://reddit.com)** | Analytics Engineer | 🌐 Remote | Mid | `Python` `Sql` `Spark` | 1d | <a href="https://go.landed.jobs/dqdq39" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Reddit](https://reddit.com)** | Analytics Engineer | 🌐 Remote | Mid | `Python` `Sql` `Spark` | 1d | <a href="https://go.landed.jobs/DzpSff" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Asana](https://asana.com)** | Data Engineer | Warsaw | Mid | `Sql` `Python` `Java` | 2d | <a href="https://go.landed.jobs/BT3Tv9" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Kitman Labs](https://kitmanlabs.com)** | Data Engineer | Greater Manchester, England, United Kingdom | Mid | `Sql` `Python` `Gcp` | 2d | <a href="https://go.landed.jobs/vASLAR" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Kitman Labs](https://kitmanlabs.com)** | Data Engineer | Dublin, Ireland | Mid | `Sql` `Python` `Gcp` | 2d | <a href="https://go.landed.jobs/CePgdd" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Philips Health Technology Innovation Paris](https://careers.philips.com)** | Analytics & Workflow Automation Developer | Bangalore | Unknown | `Python` `Sql` `Ssis` | 2d | <a href="https://go.landed.jobs/SkMVpm" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[IQVIA](https://iqvia.com)** | Python Spark Developer | Bangalore, India | Mid | `Python` `Apache Spark` `Etl` | 2d | <a href="https://go.landed.jobs/gVYEDG" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Software Engineer, Data Engineering | Costa Mesa, California, United States | Mid | `Python` `Java` `Scala` | 3d | <a href="https://go.landed.jobs/uVkMch" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Supply Chain Engineer, Analytics | Costa Mesa, California, United States | Mid | `Sql` `Python` `Typescript` | 4d | <a href="https://go.landed.jobs/EhWT3s" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Mission Analytics Engineer | Irvine, California, United States | Mid | `Python` `C++` `Rust` | 4d | <a href="https://go.landed.jobs/qYARQu" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Anduril Industries](https://anduril.com)** | Operations Analyst, Product Operations | Costa Mesa, California, United States | Mid | `Python` `Sql` `Javascript` | 4d | <a href="https://go.landed.jobs/StTxMe" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Machinify](https://machinify.com)** | SQL Prompt Engineer Analyst | 🌐 Remote | Mid | `Sql` `Spark Sql` `Prompt Engineering` | 5d | <a href="https://go.landed.jobs/fLmYXe" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Take-Two Interactive](https://take2games.com)** | Data Developer (Python/Spark) | Toronto, Ontario, Canada | Mid | `Python` `Spark` `Sql` | 5d | <a href="https://go.landed.jobs/VQPbNX" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Cohere Health](https://coherehealth.com)** | Software Engineer ll, Data Platform | 🌐 Remote | Mid | `Python` `Sql` `Data Pipelines` | 5d | <a href="https://go.landed.jobs/pxKnn6" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CI&T](https://ciandt.com)** | [job - 30084] Senior/Mid Level Data Developer, Brazil | Brazil | Mid | `Python` `Sql` `Data Modeling` | 5d | <a href="https://go.landed.jobs/Z9wUVY" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Dwolla](https://dwolla.com)** | Business Intelligence Developer | 🌐 Remote | Mid | `Sql` `Etl` `Data Visualization` | 5d | <a href="https://go.landed.jobs/9VDRa9" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Ebury](https://ebury.com)** | Data Engineer II | São Paulo | Mid | `Python` `Sql` `Airflow` | 5d | <a href="https://go.landed.jobs/x8FwY6" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[TravelPerk](https://travelperk.com)** | Analytics Engineer | London | Mid | `Sql` `Dbt` `Data Modeling` | 5d | <a href="https://go.landed.jobs/sb75hQ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Ebury](https://ebury.com)** | Data Analytics Engineer | São Paulo | Mid | `Sql` `Python` `Gcp` | 5d | <a href="https://go.landed.jobs/M4zDDs" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CI&T](https://ciandt.com)** | [Job-30124] Engenheiro de Dados Mid Level , Brazil | Brazil | Mid | `Databricks` `Pyspark` `Python` | 5d | <a href="https://go.landed.jobs/8efrLN" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Philips Health Technology Innovation Paris](https://careers.philips.com)** | Catalog Data Engineer | Chennai (ex Madras) | Unknown | `Data Modeling` `Product Data Management` `Configuration Management` | 5d | <a href="https://go.landed.jobs/EXT7Ch" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Darktrace](https://darktrace.com)** | Data Engineer | The Hague Office, Netherlands | Unknown | `Python` `Sql` `Nosql` | 5d | <a href="https://go.landed.jobs/t35mvT" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Smarking](https://smarking.com)** | Analytics Engineer | London, England, United Kingdom | Mid | `Dbt` `Bigquery` `Sql` | 5d | <a href="https://go.landed.jobs/drsEqL" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[SpaceX](https://spacex.com)** | Data Engineer (Starship) | Starbase, TX | Mid | `Python` `Sql` `Etl` | 5d | <a href="https://go.landed.jobs/mb3Mrx" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[SpaceX](https://spacex.com)** | Software Engineer, Data - Top Secret Clearance (Starlink) | Hawthorne, CA | Mid | `Python` `Java` `Scala` | 5d | <a href="https://go.landed.jobs/pXB8vz" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[SpaceX](https://spacex.com)** | Data Engineer (Starlink Network Analytics, Wi-Fi) | Redmond, WA | Mid | `Python` `C++` `C` | 5d | <a href="https://go.landed.jobs/8Q5u4X" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Coinbase](https://coinbase.com)** | Analytics Engineer, GFCO Analytics | 🌐 Remote | Mid | `Sql` `Dbt` `Airflow` | 5d | <a href="https://go.landed.jobs/VGVVZe" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Courier Health](https://courierhealth.com)** | Data Engineer | New York, New York, United States | Mid | `Sql` `Dbt` `Python` | 6d | <a href="https://go.landed.jobs/uRLpNR" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Rogo](https://rogo.ai)** | Analytics Engineer | New York City | Mid | `Sql` `Dbt` `Snowflake` | 6d | <a href="https://go.landed.jobs/s6aWDT" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Apptronik](https://apptronik.com)** | Data Platform Engineer | Onsite - Austin, TX | Mid | `Python` `Go` `Kafka` | 6d | <a href="https://go.landed.jobs/BXhgtw" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Stuut](https://stuut.co)** | Data Engineer | San Francisco | Mid | `Python` `Sql` `Snowflake` | 6d | <a href="https://go.landed.jobs/Raetk3" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Zoom](https://zoom.com)** | Data Engineer, People Analytics | 🌐 Remote | Mid | `Python` `Sql` `Airflow` | 6d | <a href="https://go.landed.jobs/XVU8QC" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Euronext](https://euronext.com)** | Python Data Engineer | Porto | Mid | `Python` `Pandas` `Dataiku` | 6d | <a href="https://go.landed.jobs/baCbgP" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Probably Genetic](https://probablygenetic.com)** | Founding Data Engineer | San Francisco | Mid | `Python` `Sql` `Aws` | 7d | <a href="https://go.landed.jobs/UfwKH2" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[nimble-robotics](https://nimble.ai)** | Data Engineer II/III | San Francisco, CA | Mid | `Python` `Sql` `Kafka` | 7d | <a href="https://go.landed.jobs/FmbyUL" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Coinbase](https://coinbase.com)** | Analytics Engineer | 🌐 Remote | Mid | `Sql` `Python` `Dbt` | 7d | <a href="https://go.landed.jobs/9VcQSE" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Axle](https://axle.insure)** | Data Engineer | Rockville, MD | Unknown | `Python` `Sql` `Etl` | 7d | <a href="https://go.landed.jobs/gPkpgG" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Lyft](https://lyft.com)** | Data Engineer, Pricing | Toronto, Canada | Mid | `Python` `Sql` `Spark` | 7d | <a href="https://go.landed.jobs/XcDxqz" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Isomorphic Labs](https://isomorphiclabs.com)** | Data Management Specialist, London | London | Unknown | `Python` `Sql` `Data Management` | 7d | <a href="https://go.landed.jobs/fpLskQ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Monzo Bank](https://monzo.com)** | Analytics Engineer | 🌐 Remote | Mid | `Sql` `Data Modeling` `Etl` | 7d | <a href="https://go.landed.jobs/8fc6sD" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Newsela](https://newsela.com)** | Data Engineer | 🌐 Remote | Mid | `Python` `Sql` `Etl` | 8d | <a href="https://go.landed.jobs/5t3Mna" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Bestow](https://bestow.com)** | Data Analyst II | 🌐 Remote | Mid | `Sql` `Dbt` `Python` | 8d | <a href="https://go.landed.jobs/ZddSk7" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Mark43](https://mark43.com)** | Data Migration Engineer | 🌐 Remote | Mid | `Sql` `Etl` | 8d | <a href="https://go.landed.jobs/VFeyHX" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[SRS Acquiom](https://srsacquiom.com)** | Data Engineer | 🌐 Remote | Mid | `Sql` `Postgresql` `Mysql` | 8d | <a href="https://go.landed.jobs/rNruz2" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Calm](https://calm.com)** | Analytics Engineer | 🌐 Remote | Mid | `Sql` `Dbt` `Databricks` | 8d | <a href="https://go.landed.jobs/tzVS2Q" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[MeridianLink](https://meridianlink.com)** | Data Engineer | US Remote | Mid | `Python` `Sql` `Apache Spark` | 9d | <a href="https://go.landed.jobs/HmaP8Q" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Govini](https://govini.com)** | Data Engineer | Pittsburgh, Pennsylvania, United States | Mid | `Sql` `Python` `Aws` | 9d | <a href="https://go.landed.jobs/xMsBv3" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[KAYAK](https://kayak.co.uk)** | ETL Engineer | Cambridge Office | Mid | `Python` `Sql` `Airflow` | 9d | <a href="https://go.landed.jobs/GdYUC4" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Octopus Energy France](https://octopusenergy.fr)** | Analytics Engineer (m/w/d) | Munich (DE) | Mid | `Sql` `Python` `Dbt` | 9d | <a href="https://go.landed.jobs/ZQ6CKB" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Weekday](https://weekday.works)** | Lead Azure Data Engineer | Bengaluru | Mid | `Azure` `Data Engineering` `Sql` | 11d | <a href="https://go.landed.jobs/Eec9HG" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[gogobot](https://skyscanner.com)** | Engineering Manager - Data | London or Edinburgh | Mid | `Python` `Sql` `Airflow` | 12d | <a href="https://go.landed.jobs/tUUMVL" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Postman](https://postman.com)** | Data Engineer | Bengaluru, Karnataka, India | Mid | `Sql` `Python` `Aws` | 12d | <a href="https://go.landed.jobs/8g9Fpd" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[IQVIA](https://iqvia.com)** | Data Management Specialist | Taguig City, Philippines | Mid | `Data Validation` `Data Processing` `Data Monitoring` | 12d | <a href="https://go.landed.jobs/ny9wdP" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Open](https://open.global)** | Data Engineer GCP H/F | Levallois-Perret | Unknown | `Gcp` `Bigquery` `Dataflow` | 12d | <a href="https://go.landed.jobs/76wFPY" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Zelis](https://zelis.com)** | Data Engineer | US DC Remote | Mid | `SQL Server Management Studio` `PostgreSQL` `Snowflake` | 12d | <a href="https://go.landed.jobs/A8CrUC" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Horizon Surgical Systems](https://horizonsurgicalsystems.com)** | Data Engineer | Los Angeles, California | Mid | `Python` `Sql` `Aws` | 13d | <a href="https://go.landed.jobs/7SuS2F" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[MongoDB](https://mongodb.com)** | Software Engineer 3 | Gurugram | Mid | `Python` `Spark` `Sql` | 13d | <a href="https://go.landed.jobs/eKUker" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Cape](https://cape.co)** | Data Engineer | 🌐 Remote | Mid | `Python` `Go` `Sql` | 13d | <a href="https://go.landed.jobs/x3ZFpc" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Take-Two Interactive](https://take2games.com)** | Data Engineer (Python/Spark) | Austin, Texas | Mid | `Python` `Sql` `Aws` | 13d | <a href="https://go.landed.jobs/KttB9s" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Weekday](https://weekday.works)** | Data Engineer (Hybrid) | Bengaluru | Mid | `Data Pipelines` `Etl` `Sql` | 13d | <a href="https://go.landed.jobs/Vb9Su4" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Lyft](https://lyft.com)** | Data Engineer | Mexico City, Mexico | Mid | `Python` `Go` `Sql` | 13d | <a href="https://go.landed.jobs/4hN5Yw" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Obsidian Security](https://obsidiansecurity.com)** | Data Engineer | Cheltenham, UK | Mid | `Python` `Sql` `Dagster` | 13d | <a href="https://go.landed.jobs/H7Aqk4" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Open](https://open.global)** | Lead Data Engineer H/F | Nantes | Unknown | `Sql` `Plsql` `Data Modeling` | 13d | <a href="https://go.landed.jobs/QVVC8z" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Supio](https://supio.com)** | Data Engineer | San Francisco, United States | Mid | `Data Lakes` `Distributed Data Systems` `Data Infrastructure` | 13d | <a href="https://go.landed.jobs/4TPT3A" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Accela](https://accela.com)** | Data Conversion Consultant | 🌐 Remote | Mid | `Sql` `Etl` `Data Migration` | 14d | <a href="https://go.landed.jobs/NaTxbr" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Weekday](https://weekday.works)** | BODS Data Engineer | Bengaluru | Mid | `Data Engineering` `Etl` `Sql` | 14d | <a href="https://go.landed.jobs/PRN2u9" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Affirm](https://affirm.com)** | Analytics Engineer II | 🌐 Remote | Mid | `Sql` `Dbt` `Snowflake` | 14d | <a href="https://go.landed.jobs/pYMPwD" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[11x.ai](https://11x.ai)** | Data Engineer | 🌐 Remote | Mid | `Python` `Typescript` `Data Pipelines` | 14d | <a href="https://go.landed.jobs/PcaQdS" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Roblox](https://roblox.com)** | Finance Analytics Engineer | San Mateo, CA, United States | Mid | `Python` `Apache Airflow` `Sql` | 15d | <a href="https://go.landed.jobs/ZtDk84" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Diffractive Labs](https://diffractive.ai)** | Data Engineer | London | Mid | `Python` `Dagster` `Airflow` | 15d | <a href="https://go.landed.jobs/U3Hbzb" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[gogobot](https://skyscanner.com)** | Data Engineering Manager | London | Mid | `Data Pipelines` `Cloud` `CI/CD` | 15d | <a href="https://go.landed.jobs/emVPpm" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CI&T](https://ciandt.com)** | [Job  29938] Mid/Senior Data Developer (Python/ AWS) | Brazil | Mid | `Python` `Aws` `Pyspark` | 15d | <a href="https://go.landed.jobs/gFZftv" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Deliveroo](https://deliveroo.co.uk)** | Analytics Engineering Manager | London - The River Building HQ | Mid | `Sql` `Data Modeling` `Data Warehousing` | 15d | <a href="https://go.landed.jobs/CHaR8v" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CI&T](https://ciandt.com)** | [29844] - AI Data Engineer - Snowflake Cortex - Contractor | 🌐 Remote | Mid | `Snowflake` `Snowflake Cortex` `Sql` | 16d | <a href="https://go.landed.jobs/vTqqt5" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CI&T](https://ciandt.com)** | [29868] - Data Analytics Engineer - DBT Modelling (Contract) | London | Mid | `Dbt` `Sql` `Snowflake` | 16d | <a href="https://go.landed.jobs/UdWCLt" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+
+[⬆ back to top](#top)
+
+<a name="junior"></a>
+## 🌱 Junior & New Grad · 7
+
+| Company | Role | Location | Level | Top skills | Posted | Apply |
+|---|---|---|---|---|---|---|
+| **[Lendable](https://lendable.co.uk)** | Junior Analytics Engineer | London | Junior | `Sql` `Dbt` `Snowflake` | 5d | <a href="https://go.landed.jobs/LZ92Nk" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Roblox](https://roblox.com)** | Software Engineer, Data Engineering | San Mateo, CA, United States | Junior | `Python` `Sql` `Data Pipelines` | 6d | <a href="https://go.landed.jobs/AfHwRW" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[HP Enterprise](https://hpe.com)** | Compensation Data Engineer | Bengaluru, Karnātaka, India | Junior | `Python` `Java` `Sql` | 9d | <a href="https://go.landed.jobs/umDzyS" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Horizon Surgical Systems](https://horizonsurgicalsystems.com)** | DataOps Analyst | Los Angeles, California | Junior | `Python` `Bash` `Aws` | 13d | <a href="https://go.landed.jobs/LMyfqP" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[IQVIA](https://iqvia.com)** | Data Management Specialist | Taguig City, Philippines | Junior | `Sql` `Database Management` `Data Quality` | 13d | <a href="https://go.landed.jobs/pfp3HP" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Oscar Health](https://hioscar.com)** | Analytics Engineer I | New York, New York, United States | Junior | `Sql` `Dbt` `Gcp` | 15d | <a href="https://go.landed.jobs/3H8mNN" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Foursquare](https://foursquare.com)** | Data Operations Associate (Fixed-term) | Serbia | Junior | `Python` `Scala` `Sql` | 16d | <a href="https://go.landed.jobs/f5n3f2" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+
+[⬆ back to top](#top)
+
+<a name="intern"></a>
+## 🎓 Internships · 3
+
+| Company | Role | Location | Level | Top skills | Posted | Apply |
+|---|---|---|---|---|---|---|
+| **[Mirantis](https://mirantis.com)** | Intern — Data Analyst | Almaty, Almaty Region, kz | Intern | `Sql` `Python` `Pandas` | 13d | <a href="https://go.landed.jobs/38WW44" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[CESI](https://cesi.fr)** | Alternant Data & Transformation Numérique (H/F) | Saint-Etienne du Rouvray, Normandie, France | Intern | `Python` `Sql` `Rest Api` | 13d | <a href="https://go.landed.jobs/ufQaGN" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[ArianeGroup](https://ariane.group)** | ALTERNANCE - Ingénieure / Ingénieur Data Manager en support aux Achats | Saint-Médard-en-Jalles - Centre | Intern | `Data Management` `Reporting` `Kpi Development` | 15d | <a href="https://go.landed.jobs/QQegGR" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+
+[⬆ back to top](#top)
 
 ---
 
 ## How to actually land one
 
-Applying cold is the slow path — these roles usually go to people who get **referred**. With Landed you can scout every opening, find a connection at the company and auto-draft a referral message, prep with company-specific mock interviews, and track every application.
+These roles usually go to people who get **referred**. With Landed you can scout every opening, find a connection at the company and auto-draft a referral message, prep with company-specific mock interviews, and track every application.
 
 **[Get started free → https://landed.jobs](https://landed.jobs)**
 
----
-
 ## Related
 
-- 🧭 [awesome-ai-native-jobs](https://github.com/landedjobs/awesome-ai-native-jobs)
+- 🧭 [awesome-ai-native-jobs](https://github.com/landedjobs/awesome-ai-native-jobs) — the umbrella for the whole family
 - 🧪 [projects-to-land-an-ai-job](https://github.com/landedjobs/projects-to-land-an-ai-job)
-- 🗺️ Roadmaps & interview prep — see the [Landed org](https://github.com/landedjobs)
 
 ## Contributing
 
 Spotted a role we missed? Open a PR or issue.
 
----
-
-<sub>Maintained by [Landed](https://landed.jobs). Data refreshed automatically. Not affiliated with the listed companies.</sub>
+<sub>300 roles · 78 remote · updated 2026-07-01 · maintained by [Landed](https://landed.jobs). Not affiliated with the listed companies.</sub>
