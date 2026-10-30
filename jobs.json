@@ -783,44 +783,6 @@
     ]
   },
   {
-    "dedupeKey": "job:c237501d-b7bf-46de-8739-1bac1c3c82a5",
-    "companyId": "company_6268792d1010ee198befb473acab3907",
-    "company": "Salesforce",
-    "companyDomain": "salesforce.com",
-    "role": "Staff & Senior Staff Software Engineer, Data Platform - Slack",
-    "applyUrl": "https://go.landed.jobs/scgm04m",
-    "location": "San Francisco, CA +3",
-    "locations": [
-      "San Francisco, CA",
-      "New York City, NY",
-      "Atlanta, GA",
-      "Seattle, WA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "staff",
-    "skills": [
-      "Airflow",
-      "dbt",
-      "Databricks",
-      "sqlmesh",
-      "Datahub",
-      "Superset",
-      "Snowflake",
-      "building APIs",
-      "SDKs",
-      "self-service platforms",
-      "AI development tools"
-    ],
-    "posted": "2026-10-20T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$151B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:b574aa45-c657-40aa-8ee6-20f772e1b8c5",
     "companyId": "company_f0420038f8afd946b21d16e6ca458c9f",
     "company": "Illumio",
@@ -2834,6 +2796,28 @@
       "Spark",
       "MongoDB"
     ],
+    "posted": "2026-10-29T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:c5c292e7-1916-4d18-b5d4-505b23ffa805",
+    "companyId": "company_96984f4284b918de31bf8e0fff6fabad",
+    "company": "Philips",
+    "companyDomain": "philips.com",
+    "role": "Co-op – Data Engineer (Biocompatibility) – Murrysville, PA – January to June 2027",
+    "applyUrl": "https://go.landed.jobs/knnknd0",
+    "location": "Murrysville, PA",
+    "locations": [
+      "Murrysville, PA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "",
+    "skills": [],
     "posted": "2026-10-29T00:00:00.000Z",
     "companyTier": "B",
     "companyBadges": [
@@ -7230,6 +7214,37 @@
     ]
   },
   {
+    "dedupeKey": "job:116d0b4b-13c6-471f-bda4-cfe15ad86aa7",
+    "companyId": "company_56ea76b8222484f4064cb8e0bedd55e3",
+    "company": "Empower",
+    "companyDomain": "empower.com",
+    "role": "Lead Data Engineer",
+    "applyUrl": "https://go.landed.jobs/4f1udq8",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_engineering",
+    "level": "senior",
+    "skills": [
+      "Kafka",
+      "AWS",
+      "Python",
+      "Java",
+      "Go",
+      "Scala",
+      "Spark",
+      "Snowflake",
+      "BigQuery",
+      "AI agents"
+    ],
+    "posted": "2026-10-29T00:00:00.000Z",
+    "companyTier": "C",
+    "companyBadges": []
+  },
+  {
     "dedupeKey": "job:25368a56-cca0-42de-b48e-57bce33a1cf2",
     "companyId": "company_0a4e97990da0e647d170c0844a212b85",
     "company": "Celigo",
@@ -9129,40 +9144,5 @@
     "posted": "2026-10-21T00:00:00.000Z",
     "companyTier": "U",
     "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:5d59d37b-87dd-46ae-9944-dc0e0cb7fb82",
-    "companyId": "company_a0205d5716639a713805baebea6a420d",
-    "company": "PrizePicks",
-    "companyDomain": "prizepicks.com",
-    "role": "Manager, Data Analytics and Engineering",
-    "applyUrl": "https://go.landed.jobs/3cgjl6n",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_engineering",
-    "level": "senior",
-    "skills": [
-      "data engineering pipelines",
-      "analytical data products",
-      "GCP",
-      "AWS",
-      "Azure",
-      "Airflow",
-      "Argo",
-      "Kafka",
-      "Flink",
-      "Spark Streaming",
-      "BigQuery",
-      "Snowflake"
-    ],
-    "posted": "2026-10-20T20:44:18.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Seed"
-    ]
   }
 ]
