@@ -1,5 +1,175 @@
 [
   {
+    "dedupeKey": "job:8e18c064-f7fb-4ceb-be2f-003f8fee3282",
+    "companyId": "company_bfb0d737dec94db3f74ea4ccc38c7f97",
+    "company": "Higgsfield AI",
+    "companyDomain": "higgsfield.ai",
+    "role": "Data Engineer",
+    "applyUrl": "https://go.landed.jobs/d7zvarc",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "senior",
+    "skills": [
+      "go",
+      "Python",
+      "SQL",
+      "Snowflake",
+      "BigQuery",
+      "Airflow",
+      "dbt",
+      "Salesforce",
+      "HubSpot"
+    ],
+    "posted": "2026-11-07T05:34:46.262Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$1.3B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:f22a95d2-0dbc-4f5a-958f-6b4505b3adee",
+    "companyId": "company_344f8b9378a0dae5084c72629d895e24",
+    "company": "Forus",
+    "companyDomain": "forus.com",
+    "role": "Data & Analytics Engineer",
+    "applyUrl": "https://go.landed.jobs/thiio7h",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "mid",
+    "skills": [],
+    "posted": "2026-11-06T22:18:55.429Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$1B valuation",
+      "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:4a11fa76-8037-4088-9ef7-caf63696e7b8",
+    "companyId": "company_9fde7dc688e3065f59b799e8ee6e17f5",
+    "company": "Function Health",
+    "companyDomain": "functionhealth.com",
+    "role": "Staff Software Engineer, Data Platform",
+    "applyUrl": "https://go.landed.jobs/pjhstux",
+    "location": "🌐 Remote (US, Canada)",
+    "locations": [
+      "US",
+      "Canada"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_engineering",
+    "level": "staff",
+    "skills": [],
+    "posted": "2026-11-06T21:09:41.870Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$2.5B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:65ad4d73-e8e2-44fc-beeb-f15492cc8109",
+    "companyId": "company_0b928ec0e19c94ae7ee6a28a7c3dede6",
+    "company": "Extend",
+    "companyDomain": "extend.com",
+    "role": "Senior Analytics Engineer",
+    "applyUrl": "https://go.landed.jobs/izcbfw4",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_engineering",
+    "level": "senior",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "AWS",
+      "SQL",
+      "CI/CD"
+    ],
+    "posted": "2026-11-06T18:30:20.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp E-Commerce 50",
+      "$1.4B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:7dedcdd4-b449-4230-8e8e-be2bf5ea2747",
+    "companyId": "company_f2d68e9e7da3706022fbc00c72fa9895",
+    "company": "Instructure",
+    "companyDomain": "instructure.com",
+    "role": "Senior Analytics Engineer",
+    "applyUrl": "https://go.landed.jobs/6qsjlmj",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_engineering",
+    "level": "senior",
+    "skills": [
+      "go",
+      "dbt",
+      "Snowflake",
+      "SQL",
+      "CI/CD",
+      "Salesforce",
+      "Tableau",
+      "Looker",
+      "Power BI"
+    ],
+    "posted": "2026-11-06T00:01:35.758Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp EdTech 50",
+      "$4.8B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:a8b5d659-2d9f-4207-9aae-c1227fd95cf9",
+    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
+    "company": "NVIDIA",
+    "companyDomain": "nvidia.com",
+    "role": "Senior Machine Learning Data Pipeline Engineer",
+    "applyUrl": "https://go.landed.jobs/vnnhpou",
+    "location": "Santa Clara, CA",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "senior",
+    "skills": [
+      "agentic workflows",
+      "LLMs",
+      "Python",
+      "SQL"
+    ],
+    "posted": "2026-11-06T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$4.9T valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:1aeecf11-eae8-4e7f-8405-793552a48a53",
     "companyId": "company_1ffda32ad70e3cac6d6a04e2fbb00c06",
     "company": "Stripe",
@@ -44,7 +214,7 @@
     "remote": "",
     "region": "us",
     "family": "data_engineering",
-    "level": "",
+    "level": "mid",
     "skills": [
       "Salesforce",
       "SQL",
@@ -55,34 +225,6 @@
     "companyBadges": [
       "TrueUp E-Commerce 50",
       "$3B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:42b0cd5d-a455-4763-9351-cdade27a0fa7",
-    "companyId": "company_adf934c7126cde9a756695d296f8bbec",
-    "company": "eBay",
-    "companyDomain": "ebay.com",
-    "role": "Data Lake Studio Manager",
-    "applyUrl": "https://go.landed.jobs/an8gdxj",
-    "location": "Austin, TX",
-    "locations": [
-      "Austin, TX"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "senior",
-    "skills": [
-      "Apache Airflow",
-      "Apache Spark",
-      "Apache Flink",
-      "Prometheus"
-    ],
-    "posted": "2026-11-05T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$50.6B valuation",
-      "Public"
     ]
   },
   {
@@ -172,39 +314,6 @@
     "companyBadges": [
       "TrueUp Power 50",
       "$13.7B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:b5490402-dde7-4d0c-bbbf-29c8b802b60c",
-    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
-    "company": "Anthropic",
-    "companyDomain": "anthropic.com",
-    "role": "Accounting Analytics & BI Engineer",
-    "applyUrl": "https://go.landed.jobs/30qa4a5",
-    "location": "San Francisco, CA · New York City, NY",
-    "locations": [
-      "San Francisco, CA",
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "mid",
-    "skills": [
-      "dbt",
-      "Airflow",
-      "Looker",
-      "Tableau",
-      "Hex",
-      "Streamlit",
-      "AWS",
-      "GCP"
-    ],
-    "posted": "2026-11-04T16:39:44.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$965B valuation"
     ]
   },
   {
@@ -665,41 +774,6 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$13B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:61556433-babf-4add-ac18-da8ff73ce7f2",
-    "companyId": "company_836ffd48c7b0e62aeefda44a2ffcbb1c",
-    "company": "Anduril Industries",
-    "companyDomain": "anduril.com",
-    "role": "Data Analyst, Quality",
-    "applyUrl": "https://go.landed.jobs/c87tv21",
-    "location": "Georgia",
-    "locations": [
-      "Georgia"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "",
-    "skills": [
-      "Foundry",
-      "Databricks",
-      "cloud lakehouse",
-      "AI tools",
-      "Cursor",
-      "Claude Code",
-      "Copilot",
-      "AIP",
-      "LLMs",
-      "ML models",
-      "RAG"
-    ],
-    "posted": "2026-10-28T17:43:24.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$61B valuation"
     ]
   },
   {
@@ -1527,31 +1601,6 @@
     ]
   },
   {
-    "dedupeKey": "job:297167c6-34fd-4ed1-a77e-5537d16a0ee3",
-    "companyId": "company_53193994ec9a9c6bb5c9f850d56b4cc5",
-    "company": "Airbnb",
-    "companyDomain": "airbnb.com",
-    "role": "Staff Data Engineer, Tech Foundations",
-    "applyUrl": "https://go.landed.jobs/0n1hufy",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_engineering",
-    "level": "staff",
-    "skills": [
-      "Spark"
-    ],
-    "posted": "2026-10-16T16:32:46.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Marketplace 50",
-      "$89.9B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:ae41eb20-c746-4c6d-9695-660d290f1833",
     "companyId": "company_3f375085332cac4fadf9e5dd28cd5469",
     "company": "Kraken",
@@ -1726,42 +1775,6 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$10B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:5df19ec2-a4eb-4fd4-b5ac-7da4a1ad2261",
-    "companyId": "company_6268792d1010ee198befb473acab3907",
-    "company": "Salesforce",
-    "companyDomain": "salesforce.com",
-    "role": "Database Engineering Associate",
-    "applyUrl": "https://go.landed.jobs/6axzo1k",
-    "location": "San Francisco, CA +2",
-    "locations": [
-      "San Francisco, CA",
-      "Herndon, VA",
-      "Bellevue, WA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "entry",
-    "skills": [
-      "Python",
-      "Amazon Web Services (AWS)",
-      "Relational Database Management Systems (RDBMS)",
-      "containers (Docker) and orchestration platforms (Kubernetes, EKS, GKE)",
-      "Linux system engineering",
-      "Shell, Python, and/or Golang",
-      "AI tools, such as AI coding assistants or generative AI",
-      "log management and analytics platforms such as Splunk or the ELK stack (Elasticsearch, Logstash, Kibana)",
-      "PostgreSQL",
-      "monitoring tools like Grafana, Prometheus"
-    ],
-    "posted": "2026-10-14T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$151B valuation"
     ]
   },
   {
@@ -2159,39 +2172,124 @@
     ]
   },
   {
-    "dedupeKey": "job:1c87a8ff-9dce-4383-95a6-345782348071",
-    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
-    "company": "NVIDIA",
-    "companyDomain": "nvidia.com",
-    "role": "Senior Synthetic Data Engineer - Autonomous Driving",
-    "applyUrl": "https://go.landed.jobs/a4biu8n",
+    "dedupeKey": "job:396e1806-f386-4e2b-82e3-e6e218c34ffc",
+    "companyId": "company_c2a25ab6390f439c7ce1ac54e8ff05e0",
+    "company": "JBS USA",
+    "companyDomain": "jbsfoodsgroup.com",
+    "role": "DATABASE ADMINISTRATOR",
+    "applyUrl": "https://go.landed.jobs/bvrywab",
+    "location": "Greeley, CO",
+    "locations": [
+      "Greeley, CO"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "",
+    "skills": [
+      "SQL",
+      "Azure"
+    ],
+    "posted": "2026-11-07T18:06:45.629Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:a2ef320d-8dd9-42de-bc00-f1d0ff297090",
+    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
+    "company": "Cisco",
+    "companyDomain": "cisco.com",
+    "role": "Senior Data Engineer, Network Platform",
+    "applyUrl": "https://go.landed.jobs/7nl2w31",
     "location": "🌐 Remote (US)",
     "locations": [
-      "Santa Clara, CA",
-      "Wa, Ghana"
+      "San Jose, CA",
+      "New York City, NY",
+      "Austin, TX"
     ],
     "remote": "remote",
     "region": "remote",
     "family": "data_engineering",
     "level": "senior",
     "skills": [
-      "computer vision",
-      "Python"
+      "observability",
+      "agentic workflows",
+      "Postgres",
+      "Snowflake",
+      "Spark",
+      "Airflow",
+      "CI/CD"
     ],
-    "posted": "2026-10-09T00:00:00.000Z",
-    "companyTier": "A",
+    "posted": "2026-11-07T00:00:00.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Power 50",
-      "$4.9T valuation"
+      "Public"
     ]
   },
   {
-    "dedupeKey": "job:21c082fd-e01a-4c31-a9c5-ad92d8c4898c",
-    "companyId": "company_38031ba56c2d72656dd9501b20d99d91",
-    "company": "Block",
-    "companyDomain": "block.xyz",
-    "role": "Senior Data Engineer, Product",
-    "applyUrl": "https://go.landed.jobs/9iv9kkm",
+    "dedupeKey": "job:f7454703-d2bc-4e4e-be97-947aafb8e6dd",
+    "companyId": "company_1d67bbc9737b3cd194e4b9fa31509887",
+    "company": "Workday",
+    "companyDomain": "workday.com",
+    "role": "Senior Software Engineer (Data Engineering)",
+    "applyUrl": "https://go.landed.jobs/3yhtemo",
+    "location": "Pleasanton, CA +2",
+    "locations": [
+      "Pleasanton, CA",
+      "Atlanta, GA",
+      "Vancouver, Canada"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "Kafka",
+      "Spark",
+      "AWS",
+      "Kubernetes",
+      "Terraform",
+      "Distributed Systems"
+    ],
+    "posted": "2026-11-07T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$39.6B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:cf0f6dbf-c34c-493e-a50f-845c2452c90c",
+    "companyId": "company_7179c7d5d3b27af7565b05dc11f577ac",
+    "company": "AbbVie",
+    "companyDomain": "abbvie.com",
+    "role": "Associate Director, Data Operations - Patient Services",
+    "applyUrl": "https://go.landed.jobs/6s8bvub",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "director",
+    "skills": [],
+    "posted": "2026-11-06T15:28:34.344Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:50e6d0b6-8614-4e39-a920-e307e11b08bf",
+    "companyId": "company_75f3d63182bdeeb6c00395e656dadafc",
+    "company": "FIS",
+    "companyDomain": "fisglobal.com",
+    "role": "Engineer Lead, Data",
+    "applyUrl": "https://go.landed.jobs/t52g3jh",
     "location": "US",
     "locations": [
       "US"
@@ -2199,55 +2297,173 @@
     "remote": "",
     "region": "us",
     "family": "data_engineering",
-    "level": "senior",
+    "level": "staff",
     "skills": [
-      "Airflow"
+      "Snowflake",
+      "Python",
+      "SQL",
+      "continuous delivery",
+      "Databricks",
+      "Terraform"
     ],
-    "posted": "2026-10-08T21:28:47.000Z",
-    "companyTier": "A",
+    "posted": "2026-11-06T00:00:00.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp E-Commerce 50",
-      "$48.4B valuation"
+      "$19.3B valuation",
+      "Public"
     ]
   },
   {
-    "dedupeKey": "job:47e5ee6f-cd76-456c-b4c2-3a23bf4d7cdb",
-    "companyId": "company_d07196d6edfe1d070e05253f4ac1c552",
-    "company": "Airwallex",
-    "companyDomain": "airwallex.com",
-    "role": "Senior Data Engineer (Seattle)",
-    "applyUrl": "https://go.landed.jobs/oifctoy",
-    "location": "Seattle, WA",
+    "dedupeKey": "job:51c35a8a-07e8-4c32-8201-31337a8b0843",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "Data and ML Engineer",
+    "applyUrl": "https://go.landed.jobs/dakcezv",
+    "location": "McLean, VA",
     "locations": [
-      "Seattle, WA"
+      "McLean, VA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Google Cloud",
+      "Azure"
+    ],
+    "posted": "2026-11-06T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:6f04e8fd-042c-47d0-8c81-bdd3fcebd13f",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "Platform and Data Engineer",
+    "applyUrl": "https://go.landed.jobs/k2pxzpg",
+    "location": "Honolulu, HI",
+    "locations": [
+      "Honolulu, HI"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "",
+    "skills": [
+      "Python",
+      "PySpark",
+      "React",
+      "Angular",
+      "TypeScript",
+      "LLMs",
+      "AWS"
+    ],
+    "posted": "2026-11-06T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:a96f69a0-a57f-46a8-8c76-62abbcc81b47",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "Palantir Foundry Developer, Senior",
+    "applyUrl": "https://go.landed.jobs/md8a55j",
+    "location": "Lexington Park, MD",
+    "locations": [
+      "Lexington Park, MD"
     ],
     "remote": "hybrid",
     "region": "us",
     "family": "data_engineering",
     "level": "senior",
     "skills": [
+      "Python",
       "SQL",
-      "PostgreSQL",
-      "MySQL",
-      "Airflow",
-      "BigQuery",
-      "Google Cloud",
-      "Python"
+      "Spark"
     ],
-    "posted": "2026-10-08T18:30:06.554Z",
-    "companyTier": "A",
+    "posted": "2026-11-06T00:00:00.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp FinTech 50",
-      "$11B valuation"
+      "Public"
     ]
   },
   {
-    "dedupeKey": "job:017d5cd9-c0ad-4512-a628-df3021af246c",
-    "companyId": "company_4317a860e042f896d91404b4f2ce9b81",
-    "company": "Deepgram",
-    "companyDomain": "deepgram.com",
-    "role": "Senior Analytics Engineer - Decision Intelligence",
-    "applyUrl": "https://go.landed.jobs/mqp42ck",
+    "dedupeKey": "job:ac3367e1-c552-403f-9fff-dd764e9393fc",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "Data Engineer, Mid",
+    "applyUrl": "https://go.landed.jobs/hdjy48s",
+    "location": "Aurora, CO · Alexandria, VA",
+    "locations": [
+      "Aurora, CO",
+      "Alexandria, VA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "mid",
+    "skills": [
+      "Python"
+    ],
+    "posted": "2026-11-06T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:b177aba0-461c-4960-903c-5c74556d6f79",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "Platform and Data Engineer",
+    "applyUrl": "https://go.landed.jobs/1s0b4va",
+    "location": "Honolulu, HI",
+    "locations": [
+      "Honolulu, HI"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "Scala",
+      "SQL",
+      "AWS",
+      "Google Cloud",
+      "Azure",
+      "Kafka",
+      "Spark",
+      "Databricks",
+      "MongoDB",
+      "MySQL"
+    ],
+    "posted": "2026-11-06T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:b908b604-b36b-4ecf-bc31-39b8edb38352",
+    "companyId": "company_d4ed29c11d3e1867937f29b4a7b35de5",
+    "company": "RELX",
+    "companyDomain": "relx.com",
+    "role": "Consulting/Principal DBA",
+    "applyUrl": "https://go.landed.jobs/u2ugw7q",
     "location": "🌐 Remote (US)",
     "locations": [
       "US"
@@ -2255,47 +2471,176 @@
     "remote": "remote",
     "region": "remote",
     "family": "data_engineering",
-    "level": "senior",
+    "level": "principal",
     "skills": [
-      "AI agents",
-      "Salesforce",
-      "go",
-      "Python",
-      "SQL",
-      "dbt"
+      "MySQL",
+      "Terraform",
+      "CI/CD",
+      "Azure",
+      "Kubernetes"
     ],
-    "posted": "2026-10-08T15:18:42.307Z",
-    "companyTier": "A",
+    "posted": "2026-11-06T00:00:00.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "YC W16",
-      "$1.3B valuation"
+      "$61.5B valuation",
+      "Public"
     ]
   },
   {
-    "dedupeKey": "job:30061701-f2b3-41a9-88aa-bd136e193e8f",
-    "companyId": "company_733f99689ce000d9eeef93cdadfc6b1e",
-    "company": "Palantir Technologies",
-    "companyDomain": "palantir.com",
-    "role": "Data Engineer - Talent Acquisition Operations",
-    "applyUrl": "https://go.landed.jobs/ur7fbdu",
-    "location": "New York City, NY",
+    "dedupeKey": "job:bcf42a82-fa68-452c-a5d0-8085362c5022",
+    "companyId": "company_75f3d63182bdeeb6c00395e656dadafc",
+    "company": "FIS",
+    "companyDomain": "fisglobal.com",
+    "role": "Data Engineer",
+    "applyUrl": "https://go.landed.jobs/ng2nkyw",
+    "location": "US",
     "locations": [
-      "New York City, NY"
+      "US"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "staff",
+    "skills": [
+      "Snowflake",
+      "SQL",
+      "Python"
+    ],
+    "posted": "2026-11-06T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$19.3B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:829aafb1-124a-408d-bc81-040251df5750",
+    "companyId": "company_032ccb3bd9883cbee75dcd4ee8a1916e",
+    "company": "Branch",
+    "companyDomain": "ourbranch.com",
+    "role": "Analytics Engineer II",
+    "applyUrl": "https://go.landed.jobs/f0c7lfq",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_engineering",
+    "level": "mid",
+    "skills": [
+      "SQL",
+      "dbt",
+      "BigQuery",
+      "Python",
+      "JavaScript"
+    ],
+    "posted": "2026-11-05T21:18:47.726Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.1B valuation",
+      "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:6b2e5865-7911-445b-9746-ab6ec6d278d0",
+    "companyId": "company_b91fa61d92ef692fdef4bcf64c9099b3",
+    "company": "Allianz",
+    "companyDomain": "allianz.com",
+    "role": "Data Platform Engineer Principal_999",
+    "applyUrl": "https://go.landed.jobs/7d1ww9v",
+    "location": "Minneapolis, MN",
+    "locations": [
+      "Minneapolis, MN"
     ],
     "remote": "hybrid",
     "region": "us",
     "family": "data_engineering",
+    "level": "principal",
+    "skills": [
+      "Microsoft Azure",
+      "Snowflake",
+      "Azure Data Factory",
+      "Synapse",
+      "ADLS Gen2",
+      "IAM/Entra ID",
+      "RBAC",
+      "Snowpipe",
+      "Streams",
+      "Tasks",
+      "OPA",
+      "GitOps"
+    ],
+    "posted": "2026-11-05T16:40:42.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:061b8a2b-b427-4545-86a3-eac06bff9a19",
+    "companyId": "company_b8a47c7e48c41f0470223b18889960d0",
+    "company": "Bms",
+    "companyDomain": "bms.com",
+    "role": "Data Engineer, Clinical Operations",
+    "applyUrl": "https://go.landed.jobs/scd7ohx",
+    "location": "Princeton, NJ",
+    "locations": [
+      "Princeton, NJ"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_engineering",
     "level": "entry",
     "skills": [
+      "Databricks",
       "Python",
-      "pySpark",
-      "SQL"
+      "SQL",
+      "Spark",
+      "LLM",
+      "RAG",
+      "prompt engineering"
     ],
-    "posted": "2026-10-07T23:35:44.350Z",
-    "companyTier": "A",
+    "posted": "2026-11-05T00:00:00.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Power 50",
-      "$295B valuation"
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:1e43f1aa-5927-45e7-8a43-07fb3829b8bb",
+    "companyId": "company_82080563055aea03a0a3bf5b27d11269",
+    "company": "Caris Life Sciences",
+    "companyDomain": "carislifesciences.com",
+    "role": "Data Integration Specialist",
+    "applyUrl": "https://go.landed.jobs/eur5hj7",
+    "location": "Irving, TX",
+    "locations": [
+      "Irving, TX"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "mid",
+    "skills": [
+      "extract transform and load (ETL) programming",
+      "relational databases",
+      "Microsoft SQL",
+      "Oracle",
+      "MySQL",
+      "PostgreSQL",
+      "HL7",
+      "XML",
+      "JSON",
+      "Mirth",
+      "AWS S3",
+      "Javascript"
+    ],
+    "posted": "2026-11-05T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$7.8B valuation",
+      "Public"
     ]
   },
   {
@@ -2329,37 +2674,6 @@
       "Azure",
       "Spark",
       "Airflow"
-    ],
-    "posted": "2026-11-05T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:a077313d-6da2-44ee-831f-d937c9e0e87e",
-    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
-    "company": "Booz Allen Hamilton",
-    "companyDomain": "boozallen.com",
-    "role": "Data Engineer",
-    "applyUrl": "https://go.landed.jobs/0xru69n",
-    "location": "Fayetteville, NC",
-    "locations": [
-      "Fayetteville, NC"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "",
-    "skills": [
-      "Python",
-      "SQL",
-      "AWS",
-      "Google Cloud",
-      "Azure",
-      "Kubernetes",
-      "Docker",
-      "TS"
     ],
     "posted": "2026-11-05T00:00:00.000Z",
     "companyTier": "B",
@@ -2490,33 +2804,6 @@
     "companyTier": "B",
     "companyBadges": [
       "Series B"
-    ]
-  },
-  {
-    "dedupeKey": "job:0eded254-186e-49ef-ad89-152a6d387b78",
-    "companyId": "company_bced043c394c9e8765d1a104e5c053de",
-    "company": "Accenture",
-    "companyDomain": "accenture.com",
-    "role": "Data Engineering - 6594277",
-    "applyUrl": "https://go.landed.jobs/g3tve8x",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Walnut Creek, CA",
-      "Raleigh, NC"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_engineering",
-    "level": "senior",
-    "skills": [
-      "Data Engineering",
-      "Oracle Primavera Unifier"
-    ],
-    "posted": "2026-11-04T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$118B valuation",
-      "Public"
     ]
   },
   {
@@ -2710,31 +2997,6 @@
     ]
   },
   {
-    "dedupeKey": "job:9627078b-34d6-4891-bd68-4f4689aec893",
-    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
-    "company": "Booz Allen Hamilton",
-    "companyDomain": "boozallen.com",
-    "role": "Data Engineer, Mid",
-    "applyUrl": "https://go.landed.jobs/itafqh1",
-    "location": "Aurora, CO · Alexandria, VA",
-    "locations": [
-      "Aurora, CO",
-      "Alexandria, VA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "",
-    "skills": [
-      "Python"
-    ],
-    "posted": "2026-11-04T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:bd186e44-b216-4df3-9e5e-bf0228da2d0f",
     "companyId": "company_d0f12616c140b9ab5b1f640d7ad48d2c",
     "company": "Capital One",
@@ -2790,41 +3052,6 @@
       "Azure",
       "Airflow",
       "Kafka"
-    ],
-    "posted": "2026-11-04T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:d425be8f-e273-4cb3-b894-4afd1029b06b",
-    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
-    "company": "Booz Allen Hamilton",
-    "companyDomain": "boozallen.com",
-    "role": "Data Engineer",
-    "applyUrl": "https://go.landed.jobs/0k1tra7",
-    "location": "Tampa, FL",
-    "locations": [
-      "Tampa, FL"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "",
-    "skills": [
-      "Python",
-      "Java",
-      "Scala",
-      "SQL",
-      "AWS",
-      "Google Cloud",
-      "Azure",
-      "Kafka",
-      "Spark",
-      "Databricks",
-      "MongoDB",
-      "MySQL"
     ],
     "posted": "2026-11-04T00:00:00.000Z",
     "companyTier": "B",
@@ -3061,42 +3288,6 @@
     ]
   },
   {
-    "dedupeKey": "job:2d3346c7-6a47-46a4-9519-0368b1cc833c",
-    "companyId": "company_8a2a099f86fbd1e25e4067a341b2ea35",
-    "company": "ServiceNow",
-    "companyDomain": "servicenow.com",
-    "role": "Staff Database Engineer",
-    "applyUrl": "https://go.landed.jobs/2nvhywl",
-    "location": "Santa Clara, CA",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "staff",
-    "skills": [
-      "Postgres database",
-      "MVCC",
-      "transaction management",
-      "vacuum mechanics",
-      "database and query performance tuning",
-      "buffer management",
-      "WAL architecture",
-      "backup/restore",
-      "Unix",
-      "ServiceNow platform",
-      "Kubernetes",
-      "CICD pipeline"
-    ],
-    "posted": "2026-11-02T18:39:32.207Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$115B valuation",
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:7043d6db-6c89-4b9d-a909-e4a12763f021",
     "companyId": "company_93f6e8ce09b893681039c86cd00e6b1e",
     "company": "Pelago",
@@ -3219,31 +3410,6 @@
       "Databricks",
       "Airflow",
       "observability"
-    ],
-    "posted": "2026-11-02T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:2f06f534-1368-45e1-a41d-1bcb8681b849",
-    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
-    "company": "Booz Allen Hamilton",
-    "companyDomain": "boozallen.com",
-    "role": "Data Engineer",
-    "applyUrl": "https://go.landed.jobs/xbofecw",
-    "location": "Fort Knox, KY",
-    "locations": [
-      "Fort Knox, KY"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "",
-    "skills": [
-      "Python",
-      "Java"
     ],
     "posted": "2026-11-02T00:00:00.000Z",
     "companyTier": "B",
@@ -3565,29 +3731,6 @@
     ]
   },
   {
-    "dedupeKey": "job:9163ef84-0eda-4105-990a-5cfe6d795ce8",
-    "companyId": "company_e96861c5e5152ede64618a0e277d9c81",
-    "company": "Charles Schwab",
-    "companyDomain": "schwab.com",
-    "role": "Platform Support Data Engineer",
-    "applyUrl": "https://go.landed.jobs/ubcypw2",
-    "location": "Austin, TX · Southlake, TX",
-    "locations": [
-      "Austin, TX",
-      "Southlake, TX"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "mid",
-    "skills": [],
-    "posted": "2026-10-30T04:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:d79430a4-52a7-458e-8e2b-67a88a851261",
     "companyId": "company_e96861c5e5152ede64618a0e277d9c81",
     "company": "Charles Schwab",
@@ -3647,32 +3790,6 @@
     ]
   },
   {
-    "dedupeKey": "job:15f5a6a2-9bbf-4cd4-8123-044fd3e17627",
-    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
-    "company": "Booz Allen Hamilton",
-    "companyDomain": "boozallen.com",
-    "role": "Data Engineer, Mid",
-    "applyUrl": "https://go.landed.jobs/49m7t9p",
-    "location": "Arlington, VA",
-    "locations": [
-      "Arlington, VA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "mid",
-    "skills": [
-      "Python",
-      "SQL",
-      "RAG"
-    ],
-    "posted": "2026-10-30T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:1ba95a48-459a-4204-bf9f-6bf707babf6f",
     "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
     "company": "Cisco",
@@ -3704,64 +3821,6 @@
     "posted": "2026-10-30T00:00:00.000Z",
     "companyTier": "B",
     "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:2c81796a-ee8d-4ce8-bc8c-2d1ac77693e4",
-    "companyId": "company_bced043c394c9e8765d1a104e5c053de",
-    "company": "Accenture",
-    "companyDomain": "accenture.com",
-    "role": "Databricks Admin Specialist - 6456969",
-    "applyUrl": "https://go.landed.jobs/s44rju1",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Chicago, IL",
-      "Milwaukee, WI",
-      "Dallas, TX",
-      "Cincinnati, OH",
-      "New York City, NY",
-      "Oklahoma City, OK",
-      "Austin, TX",
-      "Pittsburgh, PA",
-      "St. Louis, MO",
-      "Miami, FL",
-      "Sacramento, CA",
-      "Raleigh, NC",
-      "Minneapolis, MN",
-      "Scottsdale, AZ",
-      "San Francisco, CA",
-      "Denver, CO",
-      "Boston, MA",
-      "Philadelphia, PA",
-      "Overland Park, KS",
-      "Los Angeles, CA",
-      "Charlotte, NC",
-      "Walnut Creek, CA",
-      "Seattle, WA",
-      "Houston, TX",
-      "Atlanta, GA",
-      "Bentonville, AR",
-      "Nashville, TN",
-      "Detroit, MI",
-      "San Diego, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_engineering",
-    "level": "mid",
-    "skills": [
-      "Databricks Administration",
-      "Snowflake (Platform)",
-      "Data Migrations",
-      "Data Engineering",
-      "Data Pipelines",
-      "Data Processing"
-    ],
-    "posted": "2026-10-30T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$118B valuation",
       "Public"
     ]
   },
@@ -4183,6 +4242,31 @@
     "companyBadges": [
       "$2.6B valuation",
       "Series F"
+    ]
+  },
+  {
+    "dedupeKey": "job:2bd17cd7-bced-439d-902a-d8387ad1af6b",
+    "companyId": "company_e96861c5e5152ede64618a0e277d9c81",
+    "company": "Charles Schwab",
+    "companyDomain": "schwab.com",
+    "role": "Data Engineer",
+    "applyUrl": "https://go.landed.jobs/jlpo2gi",
+    "location": "Southlake, TX · Austin, TX",
+    "locations": [
+      "Southlake, TX",
+      "Austin, TX"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "senior",
+    "skills": [
+      "SQL"
+    ],
+    "posted": "2026-10-27T04:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
     ]
   },
   {
@@ -4914,32 +4998,6 @@
     ]
   },
   {
-    "dedupeKey": "job:45278509-3882-4b63-b377-3cfb6b649b2a",
-    "companyId": "company_f7ce660dace91f62a3885fa35386841e",
-    "company": "FINNY",
-    "companyDomain": "finny.com",
-    "role": "Senior Analytics Engineer",
-    "applyUrl": "https://go.landed.jobs/8m7ieym",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "senior",
-    "skills": [
-      "dbt",
-      "SQL"
-    ],
-    "posted": "2026-10-22T17:11:50.474Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC S24",
-      "Series A"
-    ]
-  },
-  {
     "dedupeKey": "job:b4624310-634b-42ba-9d12-558d8e161534",
     "companyId": "company_5517f3bf90ed59056cf38b784e6152d9",
     "company": "Cohere",
@@ -4971,40 +5029,6 @@
     "companyBadges": [
       "$6.8B valuation",
       "Late stage"
-    ]
-  },
-  {
-    "dedupeKey": "job:2dd5bed2-b90a-4fc6-a8a4-475e9881ddde",
-    "companyId": "company_ba68694ed4a78245f0c1e872d5b44516",
-    "company": "Broadridge",
-    "companyDomain": "broadridge.com",
-    "role": "Business Data Architect (Hybrid - Flexible Options)",
-    "applyUrl": "https://go.landed.jobs/2oyj404",
-    "location": "Newark, NJ",
-    "locations": [
-      "Newark, NJ"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "senior",
-    "skills": [
-      "SQL",
-      "data modeling",
-      "data warehousing",
-      "ETL processing",
-      "Snowflake",
-      "AWS S3",
-      "AWF Glue",
-      "performance tuning",
-      "optimization of database queries",
-      "Data Governance"
-    ],
-    "posted": "2026-10-22T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$17.8B valuation",
-      "Public"
     ]
   },
   {
@@ -5225,33 +5249,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$9.4B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:4137e555-0d44-4f0f-bc98-fa5a48a8e203",
-    "companyId": "company_384be631a14540620bfbc6ae51882364",
-    "company": "Macy's",
-    "companyDomain": "macys.com",
-    "role": "Tech Manager, Data Engineering - AI and Support",
-    "applyUrl": "https://go.landed.jobs/j7mw6o5",
-    "location": "Johns Creek, GA",
-    "locations": [
-      "Johns Creek, GA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "SQL",
-      "ETL/ELT frameworks",
-      "Agile methodologies"
-    ],
-    "posted": "2026-10-20T16:38:08.000Z",
-    "companyTier": "B",
-    "companyBadges": [
       "Public"
     ]
   },
@@ -5639,41 +5636,6 @@
     "companyTier": "B",
     "companyBadges": [
       "Series C"
-    ]
-  },
-  {
-    "dedupeKey": "job:fa388e54-8f68-44f1-b36c-d14a018e2fa2",
-    "companyId": "company_7179c7d5d3b27af7565b05dc11f577ac",
-    "company": "AbbVie",
-    "companyDomain": "abbvie.com",
-    "role": "Manager, Data, Analytics & AI",
-    "applyUrl": "https://go.landed.jobs/lsaiv8s",
-    "location": "North Chicago, IL",
-    "locations": [
-      "North Chicago, IL"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "senior",
-    "skills": [
-      "data governance",
-      "advanced data modeling",
-      "AI/ML data preparation",
-      "feature engineering",
-      "AWS/Redshift",
-      "Snowflake",
-      "Azure",
-      "Fabric",
-      "SQL",
-      "Python",
-      "R",
-      "Dataiku"
-    ],
-    "posted": "2026-10-16T18:03:22.021Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
     ]
   },
   {
@@ -6135,33 +6097,6 @@
     ]
   },
   {
-    "dedupeKey": "job:12a14266-a355-4617-84f2-776dd508766c",
-    "companyId": "company_d0e5eb86968dc40248fc2e540a10fd4b",
-    "company": "Kin",
-    "companyDomain": "kin.com",
-    "role": "Senior Data Engineer",
-    "applyUrl": "https://go.landed.jobs/8x3v9qe",
-    "location": "🌐 Remote (Canada, US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_engineering",
-    "level": "senior",
-    "skills": [
-      "SQL",
-      "Snowflake",
-      "Databricks"
-    ],
-    "posted": "2026-10-14T14:48:16.774Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$2B valuation",
-      "Series E"
-    ]
-  },
-  {
     "dedupeKey": "job:e712012c-a776-4004-aae9-e4561e0487bf",
     "companyId": "company_75f3d63182bdeeb6c00395e656dadafc",
     "company": "FIS",
@@ -6188,42 +6123,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$19.3B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:cf6444bf-c9fa-49c5-8bdd-657d3d43643a",
-    "companyId": "company_7a1d1881f4cfdac94b600334accc4338",
-    "company": "Zip",
-    "companyDomain": "zip.co",
-    "role": "Senior Data Engineer",
-    "applyUrl": "https://go.landed.jobs/m7khf7z",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_engineering",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "SQL",
-      "Snowflake",
-      "BigQuery",
-      "Databricks",
-      "Airflow",
-      "dbt",
-      "Kafka",
-      "Spark",
-      "Azure",
-      "observability",
-      "AWS"
-    ],
-    "posted": "2026-10-13T18:29:03.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$2.2B valuation",
       "Public"
     ]
   },
@@ -6445,6 +6344,31 @@
     ]
   },
   {
+    "dedupeKey": "job:0ef0c92d-be10-4e1d-9beb-e5cdaefc2090",
+    "companyId": "company_1fb60306dfee429de8a4090c4d118342",
+    "company": "Expedia",
+    "companyDomain": "expediagroup.com",
+    "role": "Data Engineer III - Click Stream Data Products",
+    "applyUrl": "https://go.landed.jobs/ujpcwpp",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "senior",
+    "skills": [
+      "observability"
+    ],
+    "posted": "2026-10-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$35.4B valuation",
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:197fce75-bba9-4e5d-9bc3-7fde8b3972ec",
     "companyId": "company_20751c6afb30b56e8243e199076331ba",
     "company": "CDW",
@@ -6535,280 +6459,268 @@
     ]
   },
   {
-    "dedupeKey": "job:0a039624-ad7e-4432-bb34-d0471e25d63e",
-    "companyId": "company_1fb60306dfee429de8a4090c4d118342",
-    "company": "Expedia",
-    "companyDomain": "expediagroup.com",
-    "role": "Senior Technical Lead, Marketing Technology & AI",
-    "applyUrl": "https://go.landed.jobs/0yqf4g4",
-    "location": "Chicago, IL · Seattle, WA",
+    "dedupeKey": "job:25c2ecd7-3305-4b3f-88c2-81b899c5e95a",
+    "companyId": "company_c1d295f36c63eb721f159e31cdb0e1e7",
+    "company": "Turn/River Capital",
+    "companyDomain": "turnriver.com",
+    "role": "Senior Manager, Data Engineering",
+    "applyUrl": "https://go.landed.jobs/afu07uk",
+    "location": "San Francisco, CA",
     "locations": [
-      "Chicago, IL",
-      "Seattle, WA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "senior",
-    "skills": [
-      "Salesforce Data Cloud",
-      "SQL",
-      "Python",
-      "Scala",
-      "Java",
-      "Spark",
-      "Airflow",
-      "dbt",
-      "AWS",
-      "Snowflake"
-    ],
-    "posted": "2026-10-09T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$35.4B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:5e653023-1844-4054-9eb0-09a92ddf41cb",
-    "companyId": "company_0d97a44e579374045c03c74ab2a69a7a",
-    "company": "Global Payments",
-    "companyDomain": "globalpayments.com",
-    "role": "Director of Data Governance & Enablement Platforms",
-    "applyUrl": "https://go.landed.jobs/omv9cx7",
-    "location": "Georgia +2",
-    "locations": [
-      "Georgia",
-      "London, UK",
-      "Cincinnati, OH"
+      "San Francisco, CA"
     ],
     "remote": "hybrid",
     "region": "us",
     "family": "data_engineering",
-    "level": "director",
+    "level": "senior",
     "skills": [
-      "Data Catalog",
-      "Data Dictionary/Business Glossary",
-      "Metadata Management",
-      "Data Lineage",
-      "Master Data Management (MDM)",
-      "Reference Data Management (RDM)",
-      "Data Quality",
-      "Data Profiling",
-      "Governance Workflow Automation"
+      "Salesforce",
+      "HubSpot",
+      "go",
+      "BigQuery",
+      "dbt",
+      "CI/CD",
+      "Python",
+      "SQL",
+      "Snowflake"
     ],
-    "posted": "2026-10-09T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$23B valuation",
-      "Public"
-    ]
+    "posted": "2026-11-06T23:13:29.229Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
-    "dedupeKey": "job:6dbd383c-a834-4e4b-a88e-9c4e9e60e0f3",
-    "companyId": "company_4bafd6112b6dd866fe7ab931ec80e743",
-    "company": "SS&C",
-    "companyDomain": "ssctech.com",
-    "role": "Senior Data Platform Engineer",
-    "applyUrl": "https://go.landed.jobs/evnvkc0",
+    "dedupeKey": "job:dc063958-b117-4f23-aa52-c58d89d54460",
+    "companyId": "company_59a62d9ae0cec1763e2d215226a1658b",
+    "company": "Allwyn Corp",
+    "companyDomain": "allwyncorp.com",
+    "role": "Collibra Data Governance Engineer / Administrator",
+    "applyUrl": "https://go.landed.jobs/si3nndh",
     "location": "🌐 Remote (US)",
     "locations": [
-      "New Jersey, NJ",
-      "Wyoming, WY",
-      "Wisconsin, WI",
-      "West Virginia, WV",
-      "Washington, WA",
-      "Virginia, South Africa",
-      "Vermont, Australia",
-      "Utah, UT",
-      "Texas, TX",
-      "Tennessee, TN",
-      "Oregon, OR",
-      "Oklahoma, OK",
-      "Ohio, OH",
-      "North Dakota, ND",
-      "North Carolina, NC",
-      "New York City, NY",
-      "New Mexico, NM",
-      "New Hampshire, NH",
-      "Nevada, NV",
-      "Nebraska, NE",
-      "Montana, MT",
-      "Missouri, MO",
-      "Mississippi, MS",
-      "Minnesota, MN",
-      "Michigan, MI",
-      "Maryland, Australia",
-      "Maine, WI",
-      "Louisiana, MO",
-      "Kentucky, KY",
-      "Kansas, KS",
-      "Iowa, LA",
-      "Indiana, IN",
-      "Illinois, IL",
-      "Idaho, ID",
-      "Georgia",
-      "Florida, FL",
-      "District of Columbia, DC",
-      "Delaware, DE",
-      "Connecticut, CT",
-      "Colorado, Brazil",
-      "California, CA",
-      "Arkansas, AR",
-      "Arizona, Honduras",
-      "Alaska, AK",
-      "Alabama, NY"
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_engineering",
+    "level": "",
+    "skills": [
+      "Snowflake",
+      "Databricks"
+    ],
+    "posted": "2026-11-06T18:52:50.122Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:b45d469c-18f7-4670-b90a-b74fd063d89a",
+    "companyId": "company_d275561a2b16753e6edf56e8dc3eb79e",
+    "company": "EVERSANA",
+    "companyDomain": "eversana.com",
+    "role": "Cloud Data Architect",
+    "applyUrl": "https://go.landed.jobs/9q9wv0t",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Overland Park, KS"
     ],
     "remote": "remote",
     "region": "remote",
     "family": "data_engineering",
     "level": "senior",
     "skills": [
-      "Apache Airflow",
-      "Apache Iceberg",
-      "Apache Spark",
-      "Apache Flink",
-      "Apache Kafka",
-      "Nessie",
-      "Trino",
-      "StarRocks",
-      "MCP servers",
-      "Claude Code",
-      "GitHub Copilot"
+      "Snowflake",
+      "DBT"
     ],
-    "posted": "2026-10-09T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$18.1B valuation",
-      "Public"
-    ]
+    "posted": "2026-11-06T18:19:52.395Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
-    "dedupeKey": "job:47a75c10-6c97-4a61-b9b2-130c919a3dcb",
-    "companyId": "company_5def14c5ef002f14c05286870f7061c4",
-    "company": "Moderna",
-    "companyDomain": "modernatx.com",
-    "role": "Senior Engineer, Manufacturing Data Historian and Analytics",
-    "applyUrl": "https://go.landed.jobs/44gtpgy",
-    "location": "Norwood, MA",
+    "dedupeKey": "job:f00544e5-a86f-4dc1-8865-dfc98593dcbd",
+    "companyId": "company_4ae29effa2f3ec485e65c175e8c5ba92",
+    "company": "Vitol",
+    "companyDomain": "vitol.com",
+    "role": "Database Administrator",
+    "applyUrl": "https://go.landed.jobs/dj1i8ky",
+    "location": "Houston, TX",
     "locations": [
-      "Norwood, MA"
+      "Houston, TX"
     ],
     "remote": "",
     "region": "us",
     "family": "data_engineering",
     "level": "senior",
-    "skills": [
-      "XML, XSL, SQL, and GraphQL technologies",
-      "MQTT, OPC UA",
-      "OSIsoft PI System and Emerson DeltaV",
-      "data visualization tools such as Grafana, Tableau, Power BI",
-      "analytical and predictive software solutions such as SIMCA",
-      "Informetric suite of products (InfoBatch, InfoLog) or other reporting tools"
-    ],
-    "posted": "2026-10-08T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$57.4B valuation",
-      "Public"
-    ]
+    "skills": [],
+    "posted": "2026-11-06T15:51:09.450Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
-    "dedupeKey": "job:75ea5e75-443e-4d53-ba3f-5bab8a262d39",
-    "companyId": "company_37315ad6531c271712f50a813b6e40d1",
-    "company": "Shepherd",
-    "companyDomain": "shepherdinsurance.com",
-    "role": "Analytics Engineer",
-    "applyUrl": "https://go.landed.jobs/h6qy85m",
-    "location": "San Francisco, CA",
+    "dedupeKey": "job:321b4f6e-cf18-479d-8368-64e94be7a092",
+    "companyId": "company_112db32af51548184cb56dd79e1dfe7c",
+    "company": "Talan",
+    "companyDomain": "talan.com",
+    "role": "Senior Data Engineer – Energy Trading & Cloud Data Solutions",
+    "applyUrl": "https://go.landed.jobs/03d0pf6",
+    "location": "Houston, TX",
     "locations": [
-      "San Francisco, CA"
+      "Houston, TX"
     ],
-    "remote": "",
+    "remote": "hybrid",
     "region": "us",
     "family": "data_engineering",
     "level": "senior",
     "skills": [
-      "SQL",
-      "dbt",
-      "model deployment"
-    ],
-    "posted": "2026-10-07T21:35:31.996Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC W21",
-      "Series B"
-    ]
-  },
-  {
-    "dedupeKey": "job:8b288b61-e68d-4b37-aac8-24fa36d2be57",
-    "companyId": "company_dad89edc13a5d431879b8f6b131f6718",
-    "company": "Formlabs",
-    "companyDomain": "formlabs.com",
-    "role": "Senior Data Engineer",
-    "applyUrl": "https://go.landed.jobs/qdi7oqd",
-    "location": "Somerville, MA",
-    "locations": [
-      "Somerville, MA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "senior",
-    "skills": [
-      "go",
       "Python",
       "SQL",
-      "BigQuery",
+      "AWS",
       "Google Cloud",
-      "Snowflake",
-      "Databricks",
-      "Kafka",
-      "dbt",
-      "observability",
-      "Kubernetes"
+      "Azure"
     ],
-    "posted": "2026-10-07T20:07:26.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$2B valuation",
-      "Series E"
-    ]
+    "posted": "2026-11-06T14:50:02.823Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
-    "dedupeKey": "job:42651f3e-94c5-4b48-bf36-7d2b9cc861fd",
-    "companyId": "company_dad89edc13a5d431879b8f6b131f6718",
-    "company": "Formlabs",
-    "companyDomain": "formlabs.com",
-    "role": "Data Engineer",
-    "applyUrl": "https://go.landed.jobs/2sut7oy",
-    "location": "Somerville, MA",
+    "dedupeKey": "job:66fb3513-317a-41eb-ac49-f2eb9339077c",
+    "companyId": "company_521e263ce8a1d78e57fc869b303b174a",
+    "company": "xAI",
+    "companyDomain": "x.ai",
+    "role": "Analytics Engineer (X)",
+    "applyUrl": "https://go.landed.jobs/hbqjzrx",
+    "location": "Palo Alto, CA",
     "locations": [
-      "Somerville, MA"
+      "Palo Alto, CA"
     ],
     "remote": "",
     "region": "us",
     "family": "data_engineering",
     "level": "mid",
     "skills": [
-      "go",
-      "Python",
-      "SQL",
-      "BigQuery",
-      "Google Cloud",
-      "Snowflake",
-      "Databricks",
       "Kafka",
-      "dbt",
-      "observability",
-      "Kubernetes"
+      "Spark",
+      "Python",
+      "SQL"
     ],
-    "posted": "2026-10-07T20:07:24.000Z",
-    "companyTier": "B",
+    "posted": "2026-11-06T02:03:11.000Z",
+    "companyTier": "C",
     "companyBadges": [
-      "$2B valuation",
       "Series E"
     ]
+  },
+  {
+    "dedupeKey": "job:ccea85f9-0548-4639-99e4-97fbac31f18d",
+    "companyId": "company_9cedd50d4c1437def35cf19b1405c237",
+    "company": "Absentia Labs",
+    "companyDomain": "absentia.bio",
+    "role": "Senior Data Engineer",
+    "applyUrl": "https://go.landed.jobs/d5zxvru",
+    "location": "San Francisco, CA +5",
+    "locations": [
+      "San Francisco, CA",
+      "Boston, MA",
+      "New York City, NY",
+      "Seattle, WA",
+      "San Jose, CA",
+      "Austin, TX"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "AWS",
+      "Azure",
+      "Spark",
+      "Airflow",
+      "Kafka",
+      "Kubernetes",
+      "Docker",
+      "Terraform"
+    ],
+    "posted": "2026-11-06T00:31:13.537Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:4fa216af-18cc-4d3b-930a-a6d736ac1e91",
+    "companyId": "company_23d8b838368153649c2daea29e866cda",
+    "company": "AAMC",
+    "companyDomain": "aamc.org",
+    "role": "Senior Data Engineering Specialist",
+    "applyUrl": "https://go.landed.jobs/dkgf2n5",
+    "location": "Washington, D.C., DC",
+    "locations": [
+      "Washington, D.C., DC"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "senior",
+    "skills": [
+      "Snowflake",
+      "AWS"
+    ],
+    "posted": "2026-11-06T00:00:00.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:58326815-4713-4028-92bf-2e1ab002a662",
+    "companyId": "company_dff70e8e84df4da66c073a8f0b47f64e",
+    "company": "Boston Consulting Group",
+    "companyDomain": "bcg.com",
+    "role": "Principal Database Platform Engineer",
+    "applyUrl": "https://go.landed.jobs/t2knr2b",
+    "location": "Boston, MA · Georgia",
+    "locations": [
+      "Boston, MA",
+      "Georgia"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "principal",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "CI/CD",
+      "observability",
+      "PostgreSQL",
+      "OpenSearch",
+      "Azure",
+      "BigQuery",
+      "Databricks"
+    ],
+    "posted": "2026-11-06T00:00:00.000Z",
+    "companyTier": "C",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:69e0bca8-f63f-468b-8173-e08cc0c4d326",
+    "companyId": "company_ca3e268a4b28203d11c5442d91356987",
+    "company": "Lexisnexis",
+    "companyDomain": "lexisnexis.com",
+    "role": "Consulting/Principal DBA",
+    "applyUrl": "https://go.landed.jobs/9zjvk5h",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_engineering",
+    "level": "principal",
+    "skills": [
+      "MySQL",
+      "Terraform",
+      "CI/CD",
+      "Azure",
+      "Kubernetes"
+    ],
+    "posted": "2026-11-06T00:00:00.000Z",
+    "companyTier": "C",
+    "companyBadges": []
   },
   {
     "dedupeKey": "job:9d6fcd61-a620-43ec-a2ec-0d225da86aa4",
@@ -6999,6 +6911,70 @@
     "companyBadges": []
   },
   {
+    "dedupeKey": "job:9aecacca-32a0-464a-9323-17d81e0cd3d5",
+    "companyId": "company_d637dc83a9a823f707ceca7d345348c3",
+    "company": "PlayStation",
+    "companyDomain": "playstation.com",
+    "role": "Data Engineer II, JVM",
+    "applyUrl": "https://go.landed.jobs/4rxgazp",
+    "location": "San Mateo, CA · Aliso Viejo, CA",
+    "locations": [
+      "San Mateo, CA",
+      "Aliso Viejo, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "mid",
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Scala",
+      "SQL",
+      "Kafka",
+      "Spark",
+      "OpenSearch",
+      "Amazon Web Services",
+      "Kubernetes",
+      "Docker"
+    ],
+    "posted": "2026-11-05T18:30:35.000Z",
+    "companyTier": "C",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:d1fc4436-a441-4301-b879-963ba9462cf7",
+    "companyId": "company_d637dc83a9a823f707ceca7d345348c3",
+    "company": "PlayStation",
+    "companyDomain": "playstation.com",
+    "role": "Data Engineer II, JVM",
+    "applyUrl": "https://go.landed.jobs/8vrion6",
+    "location": "San Diego, CA · Aliso Viejo, CA",
+    "locations": [
+      "San Diego, CA",
+      "Aliso Viejo, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "mid",
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Scala",
+      "SQL",
+      "Kafka",
+      "Spark",
+      "OpenSearch",
+      "Amazon Web Services",
+      "Kubernetes",
+      "Docker"
+    ],
+    "posted": "2026-11-05T18:23:24.000Z",
+    "companyTier": "C",
+    "companyBadges": []
+  },
+  {
     "dedupeKey": "job:8cfc9a94-85a4-47ef-afc7-4e7c193d3c5d",
     "companyId": "company_6ba479bf02e2c03c2c4138e7f11e07af",
     "company": "IntegriChain",
@@ -7036,7 +7012,7 @@
     "remote": "",
     "region": "us",
     "family": "data_engineering",
-    "level": "",
+    "level": "mid",
     "skills": [
       "SQL",
       "R",
@@ -7046,6 +7022,27 @@
     ],
     "posted": "2026-11-05T00:00:00.000Z",
     "companyTier": "C",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:90302f11-e4fb-48d7-be72-45f283176185",
+    "companyId": "company_b1d7f2554adb5133febaa5eb6f043285",
+    "company": "Altamira Technologies Corporation",
+    "companyDomain": "altamiracorp.com",
+    "role": "Senior Data Engineer",
+    "applyUrl": "https://go.landed.jobs/v0fe1hx",
+    "location": "Tampa, FL · Suitland, MD",
+    "locations": [
+      "Tampa, FL",
+      "Suitland, MD"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-05T00:00:00.000Z",
+    "companyTier": "U",
     "companyBadges": []
   },
   {
@@ -7199,37 +7196,6 @@
     "family": "data_engineering",
     "level": "",
     "skills": [],
-    "posted": "2026-11-04T00:00:00.000Z",
-    "companyTier": "C",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:dbc62cb5-9de9-476c-b580-2a31ea9d7b7b",
-    "companyId": "company_56ea76b8222484f4064cb8e0bedd55e3",
-    "company": "Empower",
-    "companyDomain": "empower.com",
-    "role": "Lead Engineer Data",
-    "applyUrl": "https://go.landed.jobs/2p9pk90",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_engineering",
-    "level": "senior",
-    "skills": [
-      "SQL",
-      "Python",
-      "ETL",
-      "AWS",
-      "Snowflake",
-      "data modeling",
-      "ETL/ELT processes",
-      "data warehousing",
-      "SAS/SAS Viya",
-      "PySpark"
-    ],
     "posted": "2026-11-04T00:00:00.000Z",
     "companyTier": "C",
     "companyBadges": []
@@ -7593,37 +7559,6 @@
     ]
   },
   {
-    "dedupeKey": "job:2ef3885b-d79f-431e-b3c1-5b5b5cd99899",
-    "companyId": "company_5276b2705d4945d35c8a76bee52bc948",
-    "company": "Marathon Health",
-    "companyDomain": "marathon.health",
-    "role": "Manager, Data Engineering and Integration",
-    "applyUrl": "https://go.landed.jobs/3nhstpz",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Remote"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_engineering",
-    "level": "senior",
-    "skills": [
-      "SQL",
-      "Boomi",
-      "Python",
-      "VisualCron",
-      "SQL Server",
-      "Snowflake",
-      "AWS (S3, EC2)",
-      "SFTP",
-      "PGP encryption",
-      "agile/scrum"
-    ],
-    "posted": "2026-11-03T00:00:00.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
     "dedupeKey": "job:37087a48-d5b0-45bc-8fc8-bd05d69e229e",
     "companyId": "company_068513930fd0ce14faebc7cf95c8d39f",
     "company": "Maxar",
@@ -7674,34 +7609,6 @@
     "companyBadges": [
       "$6.4B valuation"
     ]
-  },
-  {
-    "dedupeKey": "job:7879ab08-9af7-4c50-9b47-d40c6ef8f5fe",
-    "companyId": "company_b1d7f2554adb5133febaa5eb6f043285",
-    "company": "Altamira Technologies Corporation",
-    "companyDomain": "altamiracorp.com",
-    "role": "Data Platform Engineer",
-    "applyUrl": "https://go.landed.jobs/o2q8a5s",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Tampa, FL"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_engineering",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Databricks",
-      "GitLab",
-      "Confluence",
-      "API development",
-      "JIRA",
-      "DevSecOps"
-    ],
-    "posted": "2026-11-03T00:00:00.000Z",
-    "companyTier": "U",
-    "companyBadges": []
   },
   {
     "dedupeKey": "job:e30b7b9d-902f-4677-8a60-47474ff93ad2",
@@ -7911,6 +7818,26 @@
     "companyBadges": []
   },
   {
+    "dedupeKey": "job:5c0643ed-70aa-42e7-9898-af3c3d28e2a1",
+    "companyId": "company_4f7308f0b24c3fb322fdafc1d26415bc",
+    "company": "Applied Systems",
+    "companyDomain": "appliedsystems.com",
+    "role": "Principal Data Engineer",
+    "applyUrl": "https://go.landed.jobs/p0vkm36",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "principal",
+    "skills": [],
+    "posted": "2026-11-02T05:00:00.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
     "dedupeKey": "job:0976aad5-4f34-4188-9105-3bb2d025ae18",
     "companyId": "company_b41c0bec8bd4c097f0a67b1793eb5d2a",
     "company": "Anika Systems",
@@ -7941,58 +7868,6 @@
     ],
     "posted": "2026-11-02T00:00:00.000Z",
     "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:55404657-9386-431a-81a2-014c105ddde2",
-    "companyId": "company_56ea76b8222484f4064cb8e0bedd55e3",
-    "company": "Empower",
-    "companyDomain": "empower.com",
-    "role": "Senior Data Engineer",
-    "applyUrl": "https://go.landed.jobs/z2r94pn",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_engineering",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "SQL",
-      "Spark",
-      "Snowflake",
-      "AWS",
-      "CI/CD"
-    ],
-    "posted": "2026-11-02T00:00:00.000Z",
-    "companyTier": "C",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:a6a1c30f-9b7e-4e3f-8427-e120eb410843",
-    "companyId": "company_32581e9df25e6ae4b288fe1557c2423f",
-    "company": "Vanderbilt University",
-    "companyDomain": "vanderbilt.edu",
-    "role": "Senior Data Analytics Engineer",
-    "applyUrl": "https://go.landed.jobs/qas56vx",
-    "location": "Nashville, TN",
-    "locations": [
-      "Nashville, TN"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "senior",
-    "skills": [
-      "SQL",
-      "Tableau",
-      "Power BI",
-      "Snowflake"
-    ],
-    "posted": "2026-11-02T00:00:00.000Z",
-    "companyTier": "C",
     "companyBadges": []
   },
   {
@@ -8127,30 +8002,6 @@
     "companyBadges": [
       "Series B"
     ]
-  },
-  {
-    "dedupeKey": "job:d66113f0-5d3c-411b-ab41-d2b016c2f4c0",
-    "companyId": "company_4ae29effa2f3ec485e65c175e8c5ba92",
-    "company": "Vitol",
-    "companyDomain": "vitol.com",
-    "role": "Database Administrator",
-    "applyUrl": "https://go.landed.jobs/imjz97s",
-    "location": "Houston, TX",
-    "locations": [
-      "Houston, TX"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "mid",
-    "skills": [
-      "Oracle database administrator",
-      "Managing database security, user access, and database objects",
-      "supporting day-to-day production database operations"
-    ],
-    "posted": "2026-10-30T20:27:00.789Z",
-    "companyTier": "U",
-    "companyBadges": []
   },
   {
     "dedupeKey": "job:9931b3c1-2c44-498b-acda-6456a989efea",
@@ -8580,35 +8431,6 @@
     ]
   },
   {
-    "dedupeKey": "job:d6b9751d-8c3c-43da-8280-0391421921ef",
-    "companyId": "company_119c033151b44e1ad00a71111daaec14",
-    "company": "Apex Service Partners",
-    "companyDomain": "apexservicepartners.com",
-    "role": "Data & Analytics Engineer",
-    "applyUrl": "https://go.landed.jobs/a7t6z4e",
-    "location": "Tampa, FL",
-    "locations": [
-      "Tampa, FL"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "senior",
-    "skills": [
-      "Azure",
-      "Python",
-      "agentic workflows",
-      "Kafka",
-      "Spark",
-      "AWS",
-      "Airflow",
-      "observability"
-    ],
-    "posted": "2026-10-29T04:00:00.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
     "dedupeKey": "job:283c6e8e-8c4e-438a-b791-ec041a0473d7",
     "companyId": "company_327a709f3f61f5324af2e0b330170fad",
     "company": "Bayesian Health",
@@ -8831,32 +8653,29 @@
     "companyBadges": []
   },
   {
-    "dedupeKey": "job:67132301-8f4d-4b56-8149-f0b965c0209b",
-    "companyId": "company_0bb3ed235ac212d229cf39839dd9c807",
-    "company": "Fluence",
-    "companyDomain": "fluenceenergy.com",
-    "role": "Analytics & Reporting Lead - Technology, Data & Analytics",
-    "applyUrl": "https://go.landed.jobs/k250zeq",
+    "dedupeKey": "job:439dd73b-0a58-4385-b22e-0de84cdcd1a7",
+    "companyId": "company_5fb96b394886ee5b4ffaecdcac8b20dc",
+    "company": "Ensemble",
+    "companyDomain": "ensemblehp.com",
+    "role": "Data Engineer",
+    "applyUrl": "https://go.landed.jobs/hcdwrxp",
     "location": "🌐 Remote (US)",
     "locations": [
-      "Arkansas, AR"
+      "US"
     ],
     "remote": "remote",
     "region": "remote",
     "family": "data_engineering",
-    "level": "senior",
+    "level": "mid",
     "skills": [
-      "SAP",
-      "Standard Reporting",
-      "Analysis for Office",
-      "SAP Analytics Cloud",
-      "SAP HANA",
-      "SAP Business Objects",
-      "data lake",
-      "data warehouse"
+      "SQL",
+      "Python",
+      "Spark",
+      "Databricks",
+      "Azure"
     ],
     "posted": "2026-10-28T00:00:00.000Z",
-    "companyTier": "U",
+    "companyTier": "C",
     "companyBadges": []
   },
   {
@@ -9148,6 +8967,39 @@
       "Kafka"
     ],
     "posted": "2026-10-26T23:18:12.882Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:c8cf2a46-8315-403b-931b-8590bf7c3f9f",
+    "companyId": "company_d02b0ca8275ee5f4220d3a08495ada9b",
+    "company": "People Data Labs",
+    "companyDomain": "peopledatalabs.com",
+    "role": "Senior Data Engineer",
+    "applyUrl": "https://go.landed.jobs/gxbdwb1",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Remote"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_engineering",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "SQL",
+      "Airflow",
+      "dbt",
+      "Databricks",
+      "AWS",
+      "Azure",
+      "Snowflake",
+      "BigQuery",
+      "Kafka"
+    ],
+    "posted": "2026-10-26T23:13:34.441Z",
     "companyTier": "C",
     "companyBadges": [
       "Series B"
