@@ -2249,40 +2249,6 @@
     ]
   },
   {
-    "dedupeKey": "job:53c889c6-4395-4995-8846-1689ff8aa23e",
-    "companyId": "company_acb4ffda1a668b448bd13d98fe3d194d",
-    "company": "Figma",
-    "companyDomain": "figma.com",
-    "role": "Data & Integration Engineer, Business Systems",
-    "applyUrl": "https://go.landed.jobs/5hr9mph",
-    "location": "San Francisco, CA +3",
-    "locations": [
-      "San Francisco, CA",
-      "New York City, NY",
-      "Canada",
-      "US"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "senior",
-    "skills": [
-      "API-led integrations",
-      "Snowflake",
-      "dbt",
-      "Airflow",
-      "Workday Studio",
-      "Salesforce Apex",
-      "NetSuite SuiteScript"
-    ],
-    "posted": "2026-10-27T18:10:49.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$12.8B valuation",
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:0f1af7ec-6853-4e4b-9984-6199e466b187",
     "companyId": "company_5e9f00a6b5ae1f61a583a46284a23b72",
     "company": "QuEra Computing",
@@ -5320,42 +5286,6 @@
     "companyBadges": [
       "$32B valuation",
       "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:88f3906c-1e92-4537-932a-b3d6bf1d9a72",
-    "companyId": "company_75e6e214e8583351ae1b184aa946a106",
-    "company": "Pendo",
-    "companyDomain": "pendo.io",
-    "role": "Director of Engineering, Data Platform",
-    "applyUrl": "https://go.landed.jobs/ir9s2pb",
-    "location": "Raleigh, NC",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "director",
-    "skills": [
-      "real-time data ingestion",
-      "batch processing",
-      "analytics or query systems",
-      "relational (SQL)",
-      "document (NoSQL)",
-      "columnar",
-      "vector",
-      "GCP",
-      "AWS",
-      "Azure",
-      "Kubernetes",
-      "Redis"
-    ],
-    "posted": "2026-10-27T17:24:45.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$2.6B valuation",
-      "Series F"
     ]
   },
   {
@@ -8531,5 +8461,53 @@
     "posted": "2026-11-10T16:48:26.000Z",
     "companyTier": "U",
     "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:e5c5b0fd-142a-41ee-a2c0-77d489316f93",
+    "companyId": "company_bed9c70acb3fec83540d4243e622ead7",
+    "company": "Eleos Health",
+    "companyDomain": "eleos.health",
+    "role": "Senior Data Integration Engineer (US, Remote)",
+    "applyUrl": "https://go.landed.jobs/7q4muwn",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_engineering",
+    "level": "senior",
+    "skills": [
+      "SQL"
+    ],
+    "posted": "2026-11-10T16:01:16.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:14dbb6fa-bd7a-41de-81b4-4066b799655d",
+    "companyId": "company_3ef489f009764c181bcdbaf2d6cbffdd",
+    "company": "Asimov",
+    "companyDomain": "asimov.com",
+    "role": "Staff Data Engineer, Lab Data Platform",
+    "applyUrl": "https://go.landed.jobs/o7xy1le",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Boston, MA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_engineering",
+    "level": "staff",
+    "skills": [
+      "BigQuery"
+    ],
+    "posted": "2026-11-10T15:38:58.358Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
+    ]
   }
 ]
